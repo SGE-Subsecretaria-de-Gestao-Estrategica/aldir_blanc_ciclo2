@@ -5,176 +5,9 @@ As listas de valores possíveis são um componente essencial do Padrão de Dados
 As taxonomias a seguir foram consolidadas a partir dos anexos do "PADRÃO SNIIC PARA COLETA DE DADOS - PNAB CICLO 2" e devem ser utilizadas como referência para o preenchimento dos atributos correspondentes nos sistemas de informação.
 
 ---
-## 1. Segmento Cultural
+## 1. Povos e comunidades tradicionais
 
-*Baseado no ANEXO IV*
-
-| Item |
-| :--- |
-| Acervos |
-| Arquivos |
-| Artes Visuais |
-| Artesanato |
-| Audiovisual |
-| Capoeira |
-| Circo |
-| Cultura de Matriz Africana |
-| Cultura dos Povos Originários |
-| Culturas Populares e Tradicionais |
-| Dança |
-| Design |
-| Edição e produção editorial |
-| Festas e Celebrações |
-| Hip Hop |
-| Jogos eletrônicos |
-| Literatura |
-| Mediação e formação de leitores |
-| Moda |
-| Museu |
-| Música |
-| Patrimônio Arqueológico |
-| Patrimônio Cultural Material |
-| Patrimônio Cultural Imaterial |
-| Patrimônio Natural |
-| Performance |
-| Teatro |
-| Outros |
-
----
-## 2. Etapas do Ciclo Cultural
-
-*Baseado no ANEXO V*
-
-| Item |
-| :--- |
-| Criação |
-| Produção |
-| Comercialização e Distribuição |
-| Difusão e Circulação |
-| Acesso, mediação e fruição |
-| Formação |
-| Pesquisa e reflexão |
-| Proteção e salvaguarda do patrimônio |
-| Organização e gestão |
-| Monitoramento e avaliação |
-| Outra (especificar) |
-
----
-## 3. Pautas Temáticas
-
-*Baseado no ANEXO VI*
-
-| Item |
-| :--- |
-| Cultura Alimentar |
-| Cultura DEF |
-| Cultura Digital |
-| Culturas Imigrantes e Refugiadas |
-| Cultura LGBTQIAPN+ |
-| Cultura, Memória e Direitos Humanos |
-| Cultura Nerd |
-| Culturas Periféricas |
-| Cultura Quilombola |
-| Culturas Rurais e Agroecológicas |
-| Culturas Urbanas |
-| Cultura do Sertão |
-| Cultura e Acessibilidade |
-| Cultura e Economia Criativa |
-| Cultura e Educação |
-| Cultura e Gênero |
-| Cultura e Idosos |
-| Cultura e Infância |
-| Cultura e Juventude |
-| Cultura e Meio ambiente |
-| Cultura e Negritude |
-| Cultura e Pessoas em Situação de Privação de Liberdade |
-| Cultura e População de Rua |
-| Cultura e Povos Ciganos |
-| Cultura e Saúde |
-| Cultura e Turismo |
-| Culturas Indígenas |
-| Culturas Tradicionais de Matriz Africana |
-| Outra (especificar) |
-
----
-## 4. Territórios Prioritários
-
-*Baseado no ANEXO III*
-
-| Item |
-| :--- |
-| Não se aplica |
-| Área atingida por desastre natural |
-| Assentamento ou acampamento |
-| Conjunto ou empreendimento habitacional de interesse social |
-| Favelas e comunidades urbanas |
-| Periferia |
-| Regiões com menor histórico de acesso aos recursos da política pública de cultura |
-| Regiões com menor índice de Desenvolvimento Humano - IDH |
-| Sítios de arqueológicos e de patrimônio cultural |
-| Território de fronteira |
-| Território de povos e comunidades tradicionais |
-| Território indígena |
-| Território rural |
-| Zona especial de interesse social |
-
----
-## 5. Cor/Raça/Etnia
-
-*Baseado na Seção A.17*
-
-| Item |
-| :--- |
-| Branca |
-| Preta |
-| Amarela |
-| Parda |
-| Indígena |
-
----
-## 6. Escolaridade
-
-*Baseado na Seção A.19*
-
-| Item |
-| :--- |
-| Não possui educação formal |
-| Ensino fundamental incompleto ou equivalente |
-| Ensino fundamental completo ou equivalente |
-| Ensino médio incompleto ou equivalente |
-| Ensino médio completo ou equivalente |
-| Ensino superior incompleto ou equivalente |
-| Ensino superior completo |
-| Pós-graduação incompleto |
-| Pós-graduação completo |
-
----
-## 7. Recursos Financeiros de Outras Fontes
-
-*Baseado na Seção II.A.8*
-
-| Item |
-| :--- |
-| Não, a ação não possui outras fontes de recursos financeiros |
-| Apoio financeiro municipal |
-| Apoio financeiro estadual |
-| Recursos de Lei de Incentivo Municipal |
-| Recursos de Lei de Incentivo Estadual |
-| Recursos de Lei de Incentivo Federal |
-| Patrocínio privado direto |
-| Patrocínio de instituição internacional |
-| Doações de Pessoas Físicas |
-| Doações de Empresas |
-| Cobrança de ingressos |
-| Vendas de produtos |
-| Outros |
-
----
-## 8. Povos e comunidades tradicionais
-
-*Baseado no ANEXO I*
-
-| Item |
+| Valores possíveis: |
 | :--- |
 | Não pertence a povos ou comunidades tradicionais. |
 | Andirobeiros |
@@ -208,66 +41,237 @@ As taxonomias a seguir foram consolidadas a partir dos anexos do "PADRÃO SNIIC 
 | Veredeiros |
 
 ---
-## 9. Tipos de Espaços e Equipamentos Culturais
+## 2. Gênero
 
-*Baseado no ANEXO II*
-
-| Item |
+| Valores possíveis: |
 | :--- |
-| Arena ou semi arena de apresentações |
-| Associação Comunitária |
-| Atelier |
-| Auditório |
-| Biblioteca |
-| Biblioteca Comunitária |
-| Biblioteca Parque |
-| Casa da Cultura |
-| Casa de Espetáculo |
-| Centro Cultural |
-| Centro de Convenções |
-| Centro de convivência |
-| Centro de Memória e Patrimônio |
-| Centro de Tradição Regional |
-| Cinemas, cineclubes e salas de exibição |
-| Cinemateca |
-| Circo (inclusive itinerante) |
-| Escola de arte e cultura |
-| Escola de samba |
-| Escola de alimentação e cultura |
-| Espaço de Leitura |
-| Espaço Multiuso |
-| Espaços makers |
-| Estúdio de audiovisual |
-| Estúdio de Dança |
-| Estúdio de Música |
-| FabLabs |
-| Galeria e espaços de exposição |
-| Imóvel patrimonializado |
-| Laboratórios de Economia Criativa |
-| Livraria, alfarrábio ou sebo |
-| Memorial |
-| Mercados de arte e artesanato |
-| Museu |
-| Ponto de Leitura |
-| Pontos e Pontões de Cultura |
-| Rádios comunitárias |
-| Sala de Concerto |
-| Sambódromo |
-| Teatro |
-| Outros (informar qual) |
+| Homem cisgênero |
+| Mulher cisgênero |
+| Homem trans |
+| Mulher trans |
+| Travesti |
+| Não binário |
+| Outra |
+| Prefere não responder |
 
 ---
-## 10. Tipos de Entregas
+## 3. Orientação sexual
 
-*Baseado no ANEXO VII*
+| Valores possíveis: |
+| :--- |
+| Lésbica |
+| Gay |
+| Heterossexual |
+| Bissexual |
+| Outra |
+| Prefere não responder |
 
-| Item |
+---
+## 4. Cor/Raça/Etnia
+
+| Valores possíveis: |
+| :--- |
+| Branca |
+| Preta |
+| Amarela |
+| Parda |
+| Indígena |
+
+---
+## 5. Pessoa com deficiência
+
+| Valores possíveis: |
+| :--- |
+| Não |
+| Sim, Auditiva |
+| Sim, Física-motora |
+| Sim, Intelectual |
+| Sim, Visual |
+| Sim, Múltipla |
+| Sim, Transtorno do Espectro Autista |
+| Sim, outra (especificar) |
+
+---
+## 6. Escolaridade
+
+| Valores possíveis: |
+| :--- |
+| Não possui educação formal |
+| Ensino fundamental incompleto ou equivalente |
+| Ensino fundamental completo ou equivalente |
+| Ensino médio incompleto ou equivalente |
+| Ensino médio completo ou equivalente |
+| Ensino superior incompleto ou equivalente |
+| Ensino superior completo |
+| Pós-graduação incompleto |
+| Pós-graduação completo |
+
+---
+## 7. Renda média individual (R$)
+
+| Valores possíveis: |
+| :--- |
+| Nenhuma renda |
+| Até 1 salário mínimo |
+| De 1 a 3 salários mínimos |
+| De 3 a 5 salários mínimos |
+| De 5 a 8 salários mínimos |
+| De 8 a 10 salários mínimos |
+| Acima de 10 salários mínimos |
+
+---
+## 8. Segmento Cultural
+
+| Valores possíveis: |
+| :--- |
+| Acervos |
+| Arquivos |
+| Artes Visuais |
+| Artesanato |
+| Audiovisual |
+| Capoeira |
+| Circo |
+| Cultura de Matriz Africana |
+| Cultura dos Povos Originários |
+| Culturas Populares e Tradicionais |
+| Dança |
+| Design |
+| Edição e produção editorial |
+| Festas e Celebrações |
+| Hip Hop |
+| Jogos eletrônicos |
+| Literatura |
+| Mediação e formação de leitores |
+| Moda |
+| Museu |
+| Música |
+| Patrimônio Arqueológico |
+| Patrimônio Cultural Material |
+| Patrimônio Cultural Imaterial |
+| Patrimônio Natural |
+| Performance |
+| Teatro |
+| Outros |
+
+---
+## 9. Etapas do Ciclo Cultural
+
+| Valores possíveis: |
+| :--- |
+| Criação |
+| Produção |
+| Comercialização e Distribuição |
+| Difusão e Circulação |
+| Acesso, mediação e fruição |
+| Formação |
+| Pesquisa e reflexão |
+| Proteção e salvaguarda do patrimônio |
+| Organização e gestão |
+| Monitoramento e avaliação |
+| Outra (especificar) |
+
+---
+## 10. Pautas Temáticas
+
+| Valores possíveis: |
+| :--- |
+| Cultura Alimentar |
+| Cultura DEF |
+| Cultura Digital |
+| Culturas Imigrantes e Refugiadas |
+| Cultura LGBTQIAPN+ |
+| Cultura, Memória e Direitos Humanos |
+| Cultura Nerd |
+| Culturas Periféricas |
+| Cultura Quilombola |
+| Culturas Rurais e Agroecológicas |
+| Culturas Urbanas |
+| Cultura do Sertão |
+| Cultura e Acessibilidade |
+| Cultura e Economia Criativa |
+| Cultura e Educação |
+| Cultura e Gênero |
+| Cultura e Idosos |
+| Cultura e Infância |
+| Cultura e Juventude |
+| Cultura e Meio ambiente |
+| Cultura e Negritude |
+| Cultura e Pessoas em Situação de Privação de Liberdade |
+| Cultura e População de Rua |
+| Cultura e Povos Ciganos |
+| Cultura e Saúde |
+| Cultura e Turismo |
+| Culturas Indígenas |
+| Culturas Tradicionais de Matriz Africana |
+| Outra (especificar) |
+
+---
+## 11. Territórios Prioritários
+
+| Valores possíveis: |
+| :--- |
+| Não se aplica |
+| Área atingida por desastre natural |
+| Assentamento ou acampamento |
+| Conjunto ou empreendimento habitacional de interesse social |
+| Favelas e comunidades urbanas |
+| Periferia |
+| Regiões com menor histórico de acesso aos recursos da política pública de cultura |
+| Regiões com menor índice de Desenvolvimento Humano - IDH |
+| Sítios de arqueológicos e de patrimônio cultural |
+| Território de fronteira |
+| Território de povos e comunidades tradicionais |
+| Território indígena |
+| Território rural |
+| Zona especial de interesse social |
+
+---
+## 12. Tipos de Entregas
+
+| Valores possíveis: |
 | :--- |
 | Não aplicável - Premiação cultural |
 | Não aplicável - Bolsa cultural |
 | Álbum musical |
 | Aplicativo / Software |
 | Apresentação ao vivo / Show |
+| Aquisição de acervos e bens culturais |
+| Arte gráfica / Desenho / Gravura / Ilustração |
+| Artesanato |
+| Artigo / Ensaio |
+| Audiolivro |
+| Aula / Palestra / Conferência |
+| Blog / Site |
+| Caderno / Cartilha / Apostila |
+| Circulação / Turnê |
+| Coleção |
+| Congresso / Encontro / Seminário / Simpósio |
+| Curso / Oficina / Workshop |
+| Desfile |
+| Digitalização de acervos |
+| Livro |
+| Livro eletrônico (e-Book) |
+| Ensaio fotográfico |
+| Escultura |
+| Espetáculo cênico |
+| Feira |
+| Exibição / Exposição |
+| Festa Popular |
+| Festival / Mostra |
+| Filme de curta-metragem |
+| Filme de longa-metragem |
+| Filme de média-metragem ou telefilme |
+| Grafitti/Mural |
+| Intercâmbio |
+| Instalação artística / videoarte |
+| Jogo eletrônico |
+| Licenciamento |
+| Manutenção de grupos / iniciativas / espaços culturais |
+| Melhoria em espaço cultural |
+| Pesquisa |
+| Plataforma digital |
+| Podcast / Programa de TV ou Rádio |
+Ao vivo / Show |
 | Aquisição de acervos e bens culturais |
 | Arte gráfica / Desenho / Gravura / Ilustração |
 | Artesanato |
@@ -313,11 +317,75 @@ As taxonomias a seguir foram consolidadas a partir dos anexos do "PADRÃO SNIIC 
 | Outros (especificar) |
 
 ---
-## 11. Medidas de Acessibilidade
+## 13. Tipos de Espaços e Equipamentos Culturais
 
-*Baseado no ANEXO VIII*
+| Valores possíveis: |
+| :--- |
+| Arena ou semi arena de apresentações |
+| Associação Comunitária |
+| Atelier |
+| Auditório |
+| Biblioteca |
+| Biblioteca Comunitária |
+| Biblioteca Parque |
+| Casa da Cultura |
+| Casa de Espetáculo |
+| Centro Cultural |
+| Centro de Convenções |
+| Centro de convivência |
+| Centro de Memória e Patrimônio |
+| Centro de Tradição Regional |
+| Cinemas, cineclubes e salas de exibição |
+| Cinemateca |
+| Circo (inclusive itinerante) |
+| Escola de arte e cultura |
+| Escola de samba |
+| Escola de alimentação e cultura |
+| Espaço de Leitura |
+| Espaço Multiuso |
+| Espaços makers |
+| Estúdio de audiovisual |
+| Estúdio de Dança |
+| Estúdio de Música |
+| FabLabs |
+| Galeria e espaços de exposição |
+| Imóvel patrimonializado |
+| Laboratórios de Economia Criativa |
+| Livraria, alfarrábio ou sebo |
+| Memorial |
+| Mercados de arte e artesanato |
+| Museu |
+| Ponto de Leitura |
+| Pontos e Pontões de Cultura |
+| Rádios comunitárias |
+| Sala de Concerto |
+| Sambódromo |
+| Teatro |
+| Outros (informar qual) |
 
-| Item |
+---
+## 14. Recursos Financeiros de Outras Fontes
+
+| Valores possíveis: |
+| :--- |
+| Não, a ação não possui outras fontes de recursos financeiros |
+| Apoio financeiro municipal |
+| Apoio financeiro estadual |
+| Recursos de Lei de Incentivo Municipal |
+| Recursos de Lei de Incentivo Estadual |
+| Recursos de Lei de Incentivo Federal |
+| Patrocínio privado direto |
+| Patrocínio de instituição internacional |
+| Doações de Pessoas Físicas |
+| Doações de Empresas |
+| Cobrança de ingressos |
+| Vendas de produtos |
+| Outros |
+
+---
+## 15. Medidas de Acessibilidade
+
+| Valores possíveis: |
 | :--- |
 | Rotas acessíveis, com espaço de manobra para cadeira de rodas |
 | Piso tátil |
@@ -341,64 +409,3 @@ As taxonomias a seguir foram consolidadas a partir dos anexos do "PADRÃO SNIIC 
 | Contratação de profissionais com deficiência e profissionais especializados em Acessibilidade cultural |
 | Formação e sensibilização de agentes culturais, público e todos os envolvidos na cadeia produtiva cultural |
 | Outras medidas que visem a eliminação de atitudes capacitistas. |
-
----
-## 12. Gênero
-
-*Baseado na Seção A.15*
-
-| Item |
-| :--- |
-| Homem cisgênero |
-| Mulher cisgênero |
-| Homem trans |
-| Mulher trans |
-| Travesti |
-| Não binário |
-| Outra |
-| Prefere não responder |
-
----
-## 13. Orientação sexual
-
-*Baseado na Seção A.16*
-
-| Item |
-| :--- |
-| Lésbica |
-| Gay |
-| Heterossexual |
-| Bissexual |
-| Outra |
-| Prefere não responder |
-
----
-## 14. Pessoa com deficiência
-
-*Baseado na Seção A.18*
-
-| Item |
-| :--- |
-| Não |
-| Sim, Auditiva |
-| Sim, Física-motora |
-| Sim, Intelectual |
-| Sim, Visual |
-| Sim, Múltipla |
-| Sim, Transtorno do Espectro Autista |
-| Sim, outra (especificar) |
-
----
-## 15. Renda média individual (R$)
-
-*Baseado na Seção A.20*
-
-| Item |
-| :--- |
-| Nenhuma renda |
-| Até 1 salário mínimo |
-| De 1 a 3 salários mínimos |
-| De 3 a 5 salários mínimos |
-| De 5 a 8 salários mínimos |
-| De 8 a 10 salários mínimos |
-| Acima de 10 salários mínimos |
