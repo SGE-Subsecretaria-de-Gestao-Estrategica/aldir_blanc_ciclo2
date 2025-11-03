@@ -1,10 +1,10 @@
 # Padrão SNIIC para Coleta de Dados - PNAB Ciclo 2
 
-Este repositório contém as orientações e os dicionários de dados para a coleta de informações da Política Nacional Aldir Blanc (PNAB) - Ciclo 2.
+Este repositório contém as orientações e os dicionários de dados para a coleta de informações da Política Nacional Aldir Blanc (PNAB) - Ciclo 2, no âmbito do Sistema Nacional de Informações e Indicadores (SNIIC).
 
 ## O que é o padrão SNIIC para coleta de dados da PNAB?
 
-O padrão para a coleta de dados da PNAB Ciclo 2 integra o Padrão de Dados do Sistema Nacional de Informações e Indicadores (SNIIC) e estabelece parâmetros comuns para a coleta de informações sobre os agentes culturais e suas ações culturais. Seu objetivo é orientar quais as informações mínimas necessárias sobre os agentes e ações culturais e a forma como essa coleta deve ocorrer para um bom monitoramento, prestação de contas e avaliação da Política Nacional Aldir Blanc.  
+O padrão para a coleta de dados da PNAB Ciclo 2 integra o Padrão de Dados do Sistema Nacional de Informações e Indicadores (SNIIC) e estabelece parâmetros comuns para a coleta de informações sobre os agentes culturais e suas ações culturais. Seu objetivo é orientar quais as informações mínimas necessárias sobre os agentes e ações culturais e a forma como essa coleta deve ocorrer para um bom monitoramento, prestação de contas e avaliação da Política Nacional Aldir Blanc.
 
 ## Por que ele é importante?
 
@@ -54,18 +54,18 @@ As informações deverão ser enviadas ao MinC através da plataforma Cult.BR en
 
 ### 2. Listas de Valores Possíveis
 * [**Listas de Valores Transversais**](listas-de-valores.md)
-    * [1. Segmento Cultural](listas-de-valores.md#1-segmento-cultural)
-    * [2. Etapas do Ciclo Cultural](listas-de-valores.md#2-etapas-do-ciclo-cultural)
-    * [3. Pautas Temáticas](listas-de-valores.md#3-pautas-temáticas)
-    * [4. Territórios Prioritários](listas-de-valores.md#4-territórios-prioritários)
-    * [5. Cor/Raça/Etnia](listas-de-valores.md#5-corraçaetnia)
+    * [1. Povos e comunidades tradicionais](listas-de-valores.md#1-povos-e-comunidades-tradicionais)
+    * [2. Gênero](listas-de-valores.md#2-gênero)
+    * [3. Orientação sexual](listas-de-valores.md#3-orientação-sexual)
+    * [4. Cor/Raça/Etnia](listas-de-valores.md#4-corraçaetnia)
+    * [5. Pessoa com deficiência](listas-de-valores.md#5-pessoa-com-deficiência)
     * [6. Escolaridade](listas-de-valores.md#6-escolaridade)
-    * [7. Recursos Financeiros de Outras Fontes](listas-de-valores.md#7-recursos-financeiros-de-outras-fontes)
-    * [8. Povos e comunidades tradicionais](listas-de-valores.md#8-povos-e-comunidades-tradicionais)
-    * [9. Tipos de Espaços e Equipamentos Culturais](listas-de-valores.md#9-tipos-de-espaços-e-equipamentos-culturais)
-    * [10. Tipos de Entregas](listas-de-valores.md#10-tipos-de-entregas)
-    * [11. Medidas de Acessibilidade](listas-de-valores.md#11-medidas-de-acessibilidade)
-    * [12. Gênero](listas-de-valores.md#12-gênero)
-    * [13. Orientação sexual](listas-de-valores.md#13-orientação-sexual)
-    * [14. Pessoa com deficiência](listas-de-valores.md#14-pessoa-com-deficiência)
-    * [15. Renda média individual (R$)](listas-de-valores.md#15-renda-média-individual-r)
+    * [7. Renda média individual (R$)](listas-de-valores.md#7-renda-média-individual-r)
+    * [8. Segmento Cultural](listas-de-valores.md#8-segmento-cultural)
+    * [9. Etapas do Ciclo Cultural](listas-de-valores.md#9-etapas-do-ciclo-cultural)
+    * [10. Pautas Temáticas](listas-de-valores.md#10-pautas-temáticas)
+    * [11. Territórios Prioritários](listas-de-valores.md#11-territórios-prioritários)
+    * [12. Tipos de Entregas](listas-de-valores.md#12-tipos-de-entregas)
+    * [13. Tipos de Espaços e Equipamentos Culturais](listas-de-valores.md#13-tipos-de-espaços-e-equipamentos-culturais)
+    * [14. Recursos Financeiros de Outras Fontes](listas-de-valores.md#14-recursos-financeiros-de-outras-fontes)
+    * [15. Medidas de Acessibilidade](listas-de-valores.md#15-medidas-de-acessibilidade)
