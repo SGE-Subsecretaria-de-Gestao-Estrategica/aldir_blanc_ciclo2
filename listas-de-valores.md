@@ -2,7 +2,7 @@
 
 As listas de valores possíveis são um componente essencial do Padrão de Dados da PNAB. Elas funcionam como vocabulários padronizados que garantem a consistência na classificação das informações, eliminando ambiguidades e permitindo que os dados coletados em todo o território nacional sejam comparáveis e agregáveis.
 
-As taxonomias a seguir foram consolidadas a partir dos anexos do "PADRÃO SNIIC PARA COLETA DE DADOS - PNAB CICLO 2" e devem ser utilizadas como referência para o preenchimento dos atributos correspondentes nos sistemas de informação.
+As listagens apresentadas a seguir foram consolidadas a partir dos anexos do "PADRÃO SNIIC PARA COLETA DE DADOS - PNAB CICLO 2" e devem ser utilizadas como referência para o preenchimento dos atributos correspondentes nos sistemas de informação.
 
 ---
 ## 1. Povos e comunidades tradicionais
@@ -101,6 +101,8 @@ As taxonomias a seguir foram consolidadas a partir dos anexos do "PADRÃO SNIIC 
 | Ensino fundamental completo ou equivalente |
 | Ensino médio incompleto ou equivalente |
 | Ensino médio completo ou equivalente |
+| Curso técnico incompleto |
+| Curso técnico completo |
 | Ensino superior incompleto ou equivalente |
 | Ensino superior completo |
 | Pós-graduação incompleto |
@@ -175,6 +177,7 @@ As taxonomias a seguir foram consolidadas a partir dos anexos do "PADRÃO SNIIC 
 
 | Valores possíveis: |
 | :--- |
+| Não se relaciona a nenhuma pauta temática |
 | Cultura Alimentar |
 | Cultura DEF |
 | Cultura Digital |
@@ -270,50 +273,13 @@ As taxonomias a seguir foram consolidadas a partir dos anexos do "PADRÃO SNIIC 
 | Melhoria em espaço cultural |
 | Pesquisa |
 | Plataforma digital |
-| Podcast / Programa de TV ou Rádio |
-Ao vivo / Show |
-| Aquisição de acervos e bens culturais |
-| Arte gráfica / Desenho / Gravura / Ilustração |
-| Artesanato |
-| Artigo / Ensaio |
-| Audiolivro |
-| Aula / Palestra / Conferência |
-| Blog / Site |
-| Caderno / Cartilha / Apostila |
-| Circulação / Turnê |
-| Coleção |
-| Congresso / Encontro / Seminário / Simpósio |
-| Curso / Oficina / Workshop |
-| Desfile |
-| Digitalização de acervos |
-| Livro |
-| Livro eletrônico (e-Book) |
-| Ensaio fotográfico |
-| Escultura |
-| Espetáculo cênico |
-| Feira |
-| Exibição / Exposição |
-| Festa Popular |
-| Festival / Mostra |
-| Filme de curta-metragem |
-| Filme de longa-metragem |
-| Filme de média-metragem ou telefilme |
-| Grafitti/Mural |
-| Intercâmbio |
-| Instalação artística / videoarte |
-| Jogo eletrônico |
-| Licenciamento |
-| Manutenção de grupos / iniciativas / espaços culturais |
-| Melhoria em espaço cultural |
-| Pesquisa |
-| Plataforma digital |
-| Podcast / Programa de TV ou Rádio |
+| Podcast/ Programa de TV ou Rádio |
 | Residência Artística |
 | Revista / Jornal / Periódico |
 | Roteiro de filme ou episódio |
 | Sarau / Slam |
 | Série / websérie |
-| Videoclipe / Álbum visual |
+| Videoclipe / Album visual |
 | Outros (especificar) |
 
 ---
@@ -385,6 +351,7 @@ Ao vivo / Show |
 ---
 ## 15. Medidas de Acessibilidade
 
+Acessibilidade arquitetônica:
 | Valores possíveis: |
 | :--- |
 | Rotas acessíveis, com espaço de manobra para cadeira de rodas |
@@ -397,6 +364,10 @@ Ao vivo / Show |
 | Assentos para pessoas obesas |
 | Iluminação adequada |
 | Outra acessibilidade arquitetônica |
+
+Acessibilidade comunicacional:
+| Valores possíveis: |
+| :--- |
 | Língua Brasileira de Sinais - Libras |
 | Sistema Braille |
 | Sistema de sinalização ou comunicação tátil |
@@ -405,6 +376,10 @@ Ao vivo / Show |
 | Linguagem simples |
 | Textos adaptados para leitores de tela |
 | Outra acessibilidade comunicacional |
+
+Acessibilidade atitudinal:
+| Valores possíveis: |
+| :--- |
 | Capacitação de equipes atuantes nos projetos culturais |
 | Contratação de profissionais com deficiência e profissionais especializados em Acessibilidade cultural |
 | Formação e sensibilização de agentes culturais, público e todos os envolvidos na cadeia produtiva cultural |
