@@ -8,7 +8,7 @@ Informações mínimas que caracterizam as ações culturais realizadas, a serem
 
 | Atributo / Descrição | Finalidade | Nome formatado | Valores possíveis |
 | :--- | :--- | :--- | :--- |
-| **A ação cultural foi selecionada em qual edital?** <br> Identificação do edital que fomentou a ação. | Vincular a ação cultural executada ao seu respectivo processo seletivo (Edital) de origem. | identificador_edital | Texto (ou Identificador Único) |
+| **A ação cultural foi selecionada em qual edital?** <br> Identificação do edital que fomentou a ação. | Vincular a ação cultural executada ao seu respectivo processo seletivo (Edital) de origem. | identificador_edital | Texto Curto (até 100 caracteres) |
 | **CPF do responsável** <br> CPF do agente cultural responsável pela execução. | Identificar o agente cultural (PF) que executou a ação para fins de prestação de contas e rastreabilidade. | cpf_responsavel_execucao | CPF Válido |
 | **CNPJ do responsável** <br> CNPJ do agente cultural responsável pela execução. | Identificar o agente cultural (PJ/MEI/Coletivo) que executou a ação para fins de prestação de contas e rastreabilidade. | cnpj_responsavel_execucao | CNPJ Válido (se aplicável) |
 | **Início da execução** <br> Data efetiva de início das atividades da ação. | Auxiliar no monitoramento do cronograma, permitindo o acompanhamento do ciclo de vida da ação cultural. | data_inicio_execucao | Data (dd/mm/aaaa) |
@@ -28,7 +28,7 @@ Informações mínimas que caracterizam entregas realizadas por cada ação cult
 
 | Atributo / Descrição | Finalidade | Nome formatado | Valores possíveis |
 | :--- | :--- | :--- | :--- |
-| **A entrega está vinculada a qual edital?** <br> Identificação do edital que fomentou a entrega. | Vincular a entrega ao seu respectivo processo seletivo (Edital) de origem. | identificador_edital_entrega | Texto (ou Identificador Único) |
+| **A entrega está vinculada a qual edital?** <br> Identificação do edital que fomentou a entrega. | Vincular a entrega ao seu respectivo processo seletivo (Edital) de origem. | identificador_edital_entrega | Texto Curto (até 100 caracteres) |
 | **Tipo de entrega** <br> Classificação da natureza da entrega realizada (ex: relatório, produto cultural, evento). | Categorizar as entregas para facilitar a análise da prestação de contas e a avaliação dos diferentes tipos de resultados. | tipo_entrega | Seleção única a partir da [Lista 12. Tipos de Entregas](listas-de-valores.md#12-tipos-de-entregas). |
 | **Qual o principal segmento da entrega realizada?** <br> Área ou linguagem cultural principal da entrega. | Classificar a entrega para permitir análises sobre a distribuição de recursos entre os diversos segmentos culturais. | segmento_cultural_entrega | Seleção única a partir da [Lista 8. Segmento Cultural](listas-de-valores.md#8-segmento-cultural). |
 | **A entrega contempla quais medidas de acessibilidade?** <br> Medidas que visam garantir o acesso de pessoas com deficiência. | Detalhar as medidas de acessibilidade, para avaliar o cumprimento da legislação e o compromisso do projeto com a inclusão. | medidas_acessibilidade | Seleção múltipla a partir da [Lista 15. Medidas de Acessibilidade](listas-de-valores.md#15-medidas-de-acessibilidade). |
