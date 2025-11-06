@@ -4,7 +4,7 @@ Este repositório contém as orientações e os dicionários de dados para a col
 
 ## O que é o padrão SNIIC para coleta de dados da PNAB?
 
-O padrão para a coleta de dados da PNAB Ciclo 2 integra o Padrão de Dados do Sistema Nacional de Informações e Indicadores (SNIIC) e estabelece parâmetros comuns para a coleta de informações sobre os agentes culturais e suas ações culturais. Seu objetivo é orientar quais as informações mínimas necessárias sobre os agentes e ações culturais e a forma como essa coleta deve ocorrer para um bom monitoramento, prestação de contas e avaliação da Política Nacional Aldir Blanc.
+O padrão para a coleta de dados da PNAB Ciclo 2 integra o Padrão de Dados do Sistema Nacional de Informações e Indicadores (SNIIC) e estabelece parâmetros comuns para a coleta de informações sobre os agentes culturais e suas ações culturais. Seu objetivo é orientar quais as informações mínimas necessárias sobre os agentes e ações culturais e a forma como essa coleta deve ocorrer para um bom monitoramento, prestação de contas e avaliação da Política Nacional Aldir Blanc. Para saber mais, acesse a [Modelagem Entidade-Relacionamento da PNAB](mer_pnab.md).
 
 ## Por que ele é importante?
 
