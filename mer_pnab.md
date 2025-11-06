@@ -1,4 +1,4 @@
-# Modelo Entidade-Relacionamento (MER) da PNAB
+# Modelagem Entidade-Relacionamento (MER) da PNAB
 
 A Modelagem Entidade-Relacionamento constitui o núcleo estruturante do Padrão de Dados da PNAB, funcionando como representação lógica e sistemática das informações que compõem a política. Seu objetivo é organizar as entidades centrais e explicitar os relacionamentos que as conectam, de modo a oferecer clareza conceitual tanto para gestores culturais quanto para equipes técnicas responsáveis por sistemas de informação.
 
