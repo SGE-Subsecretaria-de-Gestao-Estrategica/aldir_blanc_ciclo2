@@ -287,7 +287,7 @@
         "Vendas de produtos",
         "Outros"
     ],
-    "15. Medidas de Acessibilidade": [
+    "15.1 Acessibilidade arquitetônica": [
         "Rotas acessíveis, com espaço de manobra para cadeira de rodas",
         "Piso tátil",
         "Rampas",
@@ -297,7 +297,9 @@
         "Vagas de estacionamento para pessoas com deficiência",
         "Assentos para pessoas obesas",
         "Iluminação adequada",
-        "Outra acessibilidade arquitetônica",
+        "Outra acessibilidade arquitetônica"
+    ],
+    "15.2 Acessibilidade comunicacional": [
         "Língua Brasileira de Sinais - Libras",
         "Sistema Braille",
         "Sistema de sinalização ou comunicação tátil",
@@ -305,7 +307,9 @@
         "Legendas",
         "Linguagem simples",
         "Textos adaptados para leitores de tela",
-        "Outra acessibilidade comunicacional",
+        "Outra acessibilidade comunicacional"
+    ],
+    "15.3 Acessibilidade atitudinal": [
         "Capacitação de equipes atuantes nos projetos culturais",
         "Contratação de profissionais com deficiência e profissionais especializados em Acessibilidade cultural",
         "Formação e sensibilização de agentes culturais, público e todos os envolvidos na cadeia produtiva cultural",
