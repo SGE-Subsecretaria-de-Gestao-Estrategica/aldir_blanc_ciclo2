@@ -52,7 +52,7 @@ Qualquer implementação deve **obrigatoriamente** usar os valores exatos fornec
 
 ## 2. Diretrizes Práticas de Implementação
 
-Seja qual for a tecnologia que seu ente utiliza, o objetivo final é o mesmo: **produzir um conjunto de dados (planilhas, arquivos ou comunicação via API) que esteja 100% compatível com os dicionários e listas de valores.**
+Seja qual for a tecnologia que seu ente utiliza, o objetivo final é o mesmo: **produzir um conjunto de dados que esteja 100% compatível com os dicionários e listas de valores possíveis, seja por planilhas, arquivos ou comunicação via API.**
 
 Para auxiliar nesse processo, mapeamos quatro cenários principais de implementação. Cada cenário possui um plano de ação sugerido, desde o mais simples (uso de planilhas) até o mais robusto (aderência a sistemas existentes ou federais).
 
