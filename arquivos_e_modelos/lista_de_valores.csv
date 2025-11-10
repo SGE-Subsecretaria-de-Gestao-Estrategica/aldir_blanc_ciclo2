@@ -1,0 +1,283 @@
+lista_id,lista_nome,item_valor
+1,1. Povos e comunidades tradicionais,Não pertence a povos ou comunidades tradicionais.
+1,1. Povos e comunidades tradicionais,Andirobeiros
+1,1. Povos e comunidades tradicionais,Apanhadores de flores sempre vivas
+1,1. Povos e comunidades tradicionais,Benzedeiros
+1,1. Povos e comunidades tradicionais,Caatingueiros
+1,1. Povos e comunidades tradicionais,Caboclos
+1,1. Povos e comunidades tradicionais,Caiçaras
+1,1. Povos e comunidades tradicionais,Catadores de mangaba
+1,1. Povos e comunidades tradicionais,Cipozeiros
+1,1. Povos e comunidades tradicionais,Comunidades de fundos e fechos de pasto
+1,1. Povos e comunidades tradicionais,Comunidades quilombolas
+1,1. Povos e comunidades tradicionais,Extrativistas
+1,1. Povos e comunidades tradicionais,Extrativistas costeiros e marinhos
+1,1. Povos e comunidades tradicionais,Faxinalenses
+1,1. Povos e comunidades tradicionais,Geraizeiros
+1,1. Povos e comunidades tradicionais,Ilhéus
+1,1. Povos e comunidades tradicionais,Juventude de povos e comunidades tradicionais
+1,1. Povos e comunidades tradicionais,Morroquianos
+1,1. Povos e comunidades tradicionais,Pantaneiros
+1,1. Povos e comunidades tradicionais,Pescadores artesanais
+1,1. Povos e comunidades tradicionais,Povo pomerano
+1,1. Povos e comunidades tradicionais,Povos ciganos
+1,1. Povos e comunidades tradicionais,Povos e comunidades de terreiro/de matriz africana
+1,1. Povos e comunidades tradicionais,Povos indígenas
+1,1. Povos e comunidades tradicionais,Quebradeiras de coco babaçu
+1,1. Povos e comunidades tradicionais,Raizeiros
+1D,1. Povos e comunidades tradicionais,Retireiros do Araguaia
+1,1. Povos e comunidades tradicionais,Ribeirinhos
+1,1. Povos e comunidades tradicionais,Vazanteiros
+1,1. Povos e comunidades tradicionais,Veredeiros
+2,2. Gênero,Homem cisgênero
+2,2. Gênero,Mulher cisgênero
+2,2. Gênero,Homem trans
+2,2. Gênero,Mulher trans
+2,2. Gênero,Travesti
+2,2. Gênero,Não binário
+2,2. Gênero,Outra
+2,2. Gênero,Prefere não responder
+3,3. Orientação sexual,Lésbica
+3,3. Orientação sexual,Gay
+3,3. Orientação sexual,Heterossexual
+3,3. Orientação sexual,Bissexual
+3,3. Orientação sexual,Outra
+3,3. Orientação sexual,Prefere não responder
+4,4. Cor/Raça/Etnia,Branca
+4,4. Cor/Raça/Etnia,Preta
+4,4. Cor/Raça/Etnia,Amarela
+4,4. Cor/Raça/Etnia,Parda
+4,4. Cor/Raça/Etnia,Indígena
+5,5. Pessoa com deficiência,Não
+5,5. Pessoa com deficiência,"Sim, Auditiva"
+5,5. Pessoa com deficiência,"Sim, Física-motora"
+5,5. Pessoa com deficiência,"Sim, Intelectual"
+5,5. Pessoa com deficiência,"Sim, Visual"
+5,5. Pessoa com deficiência,"Sim, Múltipla"
+5,5. Pessoa com deficiência,"Sim, Transtorno do Espectro Autista"
+5,5. Pessoa com deficiência,"Sim, outra (especificar)"
+6,6. Escolaridade,Não possui educação formal
+6,6. Escolaridade,Ensino fundamental incompleto ou equivalente
+6,6. Escolaridade,Ensino fundamental completo ou equivalente
+6,6. Escolaridade,Ensino médio incompleto ou equivalente
+6,6. Escolaridade,Ensino médio completo ou equivalente
+6,6. Escolaridade,Curso técnico incompleto
+6,6. Escolaridade,Curso técnico completo
+6,6. Escolaridade,Ensino superior incompleto ou equivalente
+6,6. Escolaridade,Ensino superior completo
+6,6. Escolaridade,Pós-graduação incompleto
+6,6. Escolaridade,Pós-graduação completo
+7,7. Renda média individual (R$),Nenhuma renda
+7,7. Renda média individual (R$),Até 1 salário mínimo
+7,7. Renda média individual (R$),"De 1 a 3 salários mínimos"
+7,7. Renda média individual (R$),"De 3 a 5 salários mínimos"
+7,7. Renda média individual (R$),"De 5 a 8 salários mínimos"
+7A,7. Renda média individual (R$),"De 8 a 10 salários mínimos"
+7,7. Renda média individual (R$),Acima de 10 salários mínimos
+8,8. Segmento Cultural,Acervos
+8,8. Segmento Cultural,Arquivos
+8,8. Segmento Cultural,Artes Visuais
+8,8. Segmento Cultural,Artesanato
+8,8. Segmento Cultural,Audiovisual
+8,8. Segmento Cultural,Capoeira
+8,8. Segmento Cultural,Circo
+8,8. Segmento Cultural,Cultura de Matriz Africana
+8,8. Segmento Cultural,Cultura dos Povos Originários
+8,8. Segmento Cultural,Culturas Populares e Tradicionais
+8,8. Segmento Cultural,Dança
+8,8. Segmento Cultural,Design
+8,8. Segmento Cultural,Edição e produção editorial
+8,8. Segmento Cultural,Festas e Celebrações
+8,8. Segmento Cultural,Hip Hop
+8,8. Segmento Cultural,Jogos eletrônicos
+8,8. Segmento Cultural,Literatura
+8,8. Segmento Cultural,Mediação e formação de leitores
+8,8. Segmento Cultural,Moda
+8,8. Segmento Cultural,Museu
+8,8. Segmento Cultural,Música
+8,8. Segmento Cultural,Patrimônio Arqueológico
+8,8. Segmento Cultural,Patrimônio Cultural Material
+8,8. Segmento Cultural,Patrimônio Cultural Imaterial
+8,8. Segmento Cultural,Patrimônio Natural
+8,8. Segmento Cultural,Performance
+8,8. Segmento Cultural,Teatro
+8,8. Segmento Cultural,Outros
+9,9. Etapas do Ciclo Cultural,Criação
+9,9. Etapas do Ciclo Cultural,Produção
+9,9. Etapas do Ciclo Cultural,Comercialização e Distribuição
+9,9. Etapas do Ciclo Cultural,Difusão e Circulação
+9,9. Etapas do Ciclo Cultural,"Acesso, mediação e fruição"
+9,9. Etapas do Ciclo Cultural,Formação
+9,9. Etapas do Ciclo Cultural,Pesquisa e reflexão
+9,9. Etapas do Ciclo Cultural,"Proteção e salvaguarda do patrimônio"
+9,9. Etapas do Ciclo Cultural,Organização e gestão
+9,9. Etapas do Ciclo Cultural,Monitoramento e avaliação
+9,9. Etapas do Ciclo Cultural,"Outra (especificar)"
+10,10. Pautas Temáticas,Não se relaciona a nenhuma pauta temática
+10,10. Pautas Temáticas,Cultura Alimentar
+10,10. Pautas Temáticas,Cultura DEF
+10,10. Pautas Temáticas,Cultura Digital
+10,10. Pautas Temáticas,Culturas Imigrantes e Refugiadas
+10,10. Pautas Temáticas,Cultura LGBTQIAPN+
+10,10. Pautas Temáticas,"Cultura, Memória e Direitos Humanos"
+10,10. Pautas Temáticas,Cultura Nerd
+10,10. Pautas Temáticas,Culturas Periféricas
+10,10. Pautas Temáticas,Cultura Quilombola
+10,10. Pautas Temáticas,Culturas Rurais e Agroecológicas
+10,10. Pautas Temáticas,Culturas Urbanas
+10,10. Pautas Temáticas,Cultura do Sertão
+10,10. Pautas Temáticas,Cultura e Acessibilidade
+10,10. Pautas Temáticas,Cultura e Economia Criativa
+10,10. Pautas Temáticas,Cultura e Educação
+10,10. Pautas Temáticas,Cultura e Gênero
+10,10. Pautas Temáticas,Cultura e Idosos
+10,10. Pautas Temáticas,Cultura e Infância
+10,10. Pautas Temáticas,Cultura e Juventude
+10,10. Pautas Temáticas,Cultura e Meio ambiente
+10,10. Pautas Temáticas,Cultura e Negritude
+10,10. Pautas Temáticas,Cultura e Pessoas em Situação de Privação de Liberdade
+10,10. Pautas Temáticas,Cultura e População de Rua
+10,10. Pautas Temáticas,Cultura e Povos Ciganos
+10,10. Pautas Temáticas,Cultura e Saúde
+10,10. Pautas Temáticas,Cultura e Turismo
+10,10. Pautas Temáticas,Culturas Indígenas
+10,10. Pautas Temáticas,Culturas Tradicionais de Matriz Africana
+10,10. Pautas Temáticas,"Outra (especificar)"
+11,11. Territórios Prioritários,Não se aplica
+11,11. Territórios Prioritários,Área atingida por desastre natural
+11,11. Territórios Prioritários,Assentamento ou acampamento
+11,11. Territórios Prioritários,Conjunto ou empreendimento habitacional de interesse social
+11,11. Territórios Prioritários,Favelas e comunidades urbanas
+11,11. Territórios Prioritários,Periferia
+11,11. Territórios Prioritários,Regiões com menor histórico de acesso aos recursos da política pública de cultura
+11,11. Territórios Prioritários,"Regiões com menor índice de Desenvolvimento Humano - IDH"
+11,11. Territórios Prioritários,Sítios de arqueológicos e de patrimônio cultural
+11,11. Territórios Prioritários,Território de fronteira
+11,11. Territórios Prioritários,Território de povos e comunidades tradicionais
+11,11. Territórios Prioritários,Território indígena
+11,11. Territórios Prioritários,Território rural
+11,11. Territórios Prioritários,Zona especial de interesse social
+12,12. Tipos de Entregas,"Não aplicável - Premiação cultural"
+12,12. Tipos de Entregas,"Não aplicável - Bolsa cultural"
+12,12. Tipos de Entregas,Álbum musical
+12,12. Tipos de Entregas,"Aplicativo / Software"
+12,12. Tipos de Entregas,"Apresentação ao vivo / Show"
+12,12. Tipos de Entregas,Aquisição de acervos e bens culturais
+12,12. Tipos de Entregas,"Arte gráfica / Desenho / Gravura / Ilustração"
+12,12. Tipos de Entregas,Artesanato
+12,12. Tipos de Entregas,"Artigo / Ensaio"
+12,12. Tipos de Entregas,Audiolivro
+12,12. Tipos de Entregas,"Aula / Palestra / Conferência"
+12,12. Tipos de Entregas,"Blog / Site"
+12,12. Tipos de Entregas,"Caderno / Cartilha / Apostila"
+12,12. Tipos de Entregas,"Circulação / Turnê"
+12,12. Tipos de Entregas,Coleção
+12,12. Tipos de Entregas,"Congresso / Encontro / Seminário / Simpósio"
+12,12. Tipos de Entregas,"Curso / Oficina / Workshop"
+12,12. Tipos de Entregas,Desfile
+12,12. Tipos de Entregas,Digitalização de acervos
+12,12. Tipos de Entregas,Livro
+12,12. Tipos de Entregas,"Livro eletrônico (e-Book)"
+12,12. Tipos de Entregas,Ensaio fotográfico
+12,12. Tipos de Entregas,Escultura
+12,12. Tipos de Entregas,Espetáculo cênico
+12,12. Tipos de Entregas,Feira
+12,12. Tipos de Entregas,"Exibição / Exposição"
+12,12. Tipos de Entregas,Festa Popular
+12,12. Tipos de Entregas,"Festival / Mostra"
+12,12. Tipos de Entregas,Filme de curta-metragem
+12,12. Tipos de Entregas,Filme de longa-metragem
+12,12. Tipos de Entregas,"Filme de média-metragem ou telefilme"
+12,12. Tipos de Entregas,Grafitti/Mural
+12,12. Tipos de Entregas,Intercâmbio
+12,12. Tipos de Entregas,"Instalação artística / videoarte"
+12,12. Tipos de Entregas,Jogo eletrônico
+12,12. Tipos de Entregas,Licenciamento
+12,12. Tipos de Entregas,"Manutenção de grupos / iniciativas / espaços culturais"
+12,12. Tipos de Entregas,Melhoria em espaço cultural
+12,12. Tipos de Entregas,Pesquisa
+12,12. Tipos de Entregas,Plataforma digital
+12,12. Tipos de Entregas,"Podcast/ Programa de TV ou Rádio"
+12,12. Tipos de Entregas,Residência Artística
+12,12. Tipos de Entregas,"Revista / Jornal / Periódico"
+12,12. Tipos de Entregas,"Roteiro de filme ou episódio"
+12,12. Tipos de Entregas,"Sarau / Slam"
+12,12. Tipos de Entregas,"Série / websérie"
+12,12. Tipos de Entregas,"Videoclipe / Album visual"
+12,12. Tipos de Entregas,"Outros (especificar)"
+13,13. Tipos de Espaços e Equipamentos Culturais,Arena ou semi arena de apresentações
+13,13. Tipos de Espaços e Equipamentos Culturais,Associação Comunitária
+13,13. Tipos de Espaços e Equipamentos Culturais,Atelier
+13,13. Tipos de Espaços e Equipamentos Culturais,Auditório
+13,13. Tipos de Espaços e Equipamentos Culturais,Biblioteca
+13,13. Tipos de Espaços e Equipamentos Culturais,Biblioteca Comunitária
+13,13. Tipos de Espaços e Equipamentos Culturais,Biblioteca Parque
+13,13. Tipos de Espaços e Equipamentos Culturais,Casa da Cultura
+13,13. Tipos de Espaços e Equipamentos Culturais,Casa de Espetáculo
+13,13. Tipos de Espaços e Equipamentos Culturais,Centro Cultural
+13,13. Tipos de Espaços e Equipamentos Culturais,Centro de Convenções
+13,13. Tipos de Espaços e Equipamentos Culturais,Centro de convivência
+13,13. Tipos de Espaços e Equipamentos Culturais,Centro de Memória e Patrimônio
+13,13. Tipos de Espaços e Equipamentos Culturais,Centro de Tradição Regional
+13,13. Tipos de Espaços e Equipamentos Culturais,"Cinemas, cineclubes e salas de exibição"
+13,13. Tipos de Espaços e Equipamentos Culturais,Cinemateca
+13,13. Tipos de Espaços e Equipamentos Culturais,"Circo (inclusive itinerante)"
+13,13. Tipos de Espaços e Equipamentos Culturais,Escola de arte e cultura
+13,13. Tipos de Espaços e Equipamentos Culturais,Escola de samba
+13,13. Tipos de Espaços e Equipamentos Culturais,Escola de alimentação e cultura
+13,13. Tipos de Espaços e Equipamentos Culturais,Espaço de Leitura
+13,13. Tipos de Espaços e Equipamentos Culturais,Espaço Multiuso
+13,13. Tipos de Espaços e Equipamentos Culturais,Espaços makers
+13,13. Tipos de Espaços e Equipamentos Culturais,Estúdio de audiovisual
+13,13. Tipos de Espaços e Equipamentos Culturais,Estúdio de Dança
+13,13. Tipos de Espaços e Equipamentos Culturais,Estúdio de Música
+13,13. Tipos de Espaços e Equipamentos Culturais,FabLabs
+13,13. Tipos de Espaços e Equipamentos Culturais,Galeria e espaços de exposição
+13,13. Tipos de Espaços e Equipamentos Culturais,Imóvel patrimonializado
+13,13. Tipos de Espaços e Equipamentos Culturais,Laboratórios de Economia Criativa
+13,13. Tipos de Espaços e Equipamentos Culturais,"Livraria, alfarrábio ou sebo"
+13,13. Tipos de Espaços e Equipamentos Culturais,Memorial
+13,13. Tipos de Espaços e Equipamentos Culturais,Mercados de arte e artesanato
+13,13. Tipos de Espaços e Equipamentos Culturais,Museu
+1BODY,13. Tipos de Espaços e Equipamentos Culturais,Ponto de Leitura
+13,13. Tipos de Espaços e Equipamentos Culturais,Pontos e Pontões de Cultura
+13,13. Tipos de Espaços e Equipamentos Culturais,Rádios comunitárias
+13,13. Tipos de Espaços e Equipamentos Culturais,Sala de Concerto
+13,13. Tipos de Espaços e Equipamentos Culturais,Sambódromo
+13,13. Tipos de Espaços e Equipamentos Culturais,Teatro
+1A3,13. Tipos de Espaços e Equipamentos Culturais,"Outros (informar qual)"
+14,14. Recursos Financeiros de Outras Fontes,"Não, a ação não possui outras fontes de recursos financeiros"
+14,14. Recursos Financeiros de Outras Fontes,Apoio financeiro municipal
+14,14. Recursos Financeiros de Outras Fontes,Apoio financeiro estadual
+14,14. Recursos Financeiros de Outras Fontes,Recursos de Lei de Incentivo Municipal
+14,14. Recursos Financeiros de Outras Fontes,Recursos de Lei de Incentivo Estadual
+14,14. Recursos Financeiros de Outras Fontes,Recursos de Lei de Incentivo Federal
+14,14. Recursos Financeiros de Outras Fontes,Patrocínio privado direto
+14,14. Recursos Financeiros de Outras Fontes,Patrocínio de instituição internacional
+14,14. Recursos Financeiros de Outras Fontes,Doações de Pessoas Físicas
+14,14. Recursos Financeiros de Outras Fontes,Doações de Empresas
+1BODY,14. Recursos Financeiros de Outras Fontes,Cobrança de ingressos
+14,14. Recursos Financeiros de Outras Fontes,Vendas de produtos
+14,14. Recursos Financeiros de Outras Fontes,Outros
+15,15. Medidas de Acessibilidade,"Rotas acessíveis, com espaço de manobra para cadeira de rodas"
+15,15. Medidas de Acessibilidade,Piso tátil
+15,15. Medidas de Acessibilidade,Rampas
+15,15. Medidas de Acessibilidade,Elevadores adequados para pessoas com deficiência
+15,15. Medidas de Acessibilidade,"Corrimãos e guarda-corpos"
+15,15. Medidas de Acessibilidade,Banheiros femininos e masculinos adaptados para pessoas com deficiência
+15,15. Medidas de Acessibilidade,Vagas de estacionamento para pessoas com deficiência
+15,15. Medidas de Acessibilidade,Assentos para pessoas obesas
+15,15. Medidas de Acessibilidade,Iluminação adequada
+15,15. Medidas de Acessibilidade,Outra acessibilidade arquitetônica
+15,15. Medidas de Acessibilidade,"Língua Brasileira de Sinais - Libras"
+15,15. Medidas de Acessibilidade,Sistema Braille
+15,15. Medidas de Acessibilidade,"Sistema de sinalização ou comunicação tátil"
+15,15. Medidas de Acessibilidade,Audiodescrição
+15,15. Medidas de Acessibilidade,Legendas
+15,15. Medidas de Acessibilidade,Linguagem simples
+15,15. Medidas de Acessibilidade,Textos adaptados para leitores de tela
+15,15. Medidas de Acessibilidade,Outra acessibilidade comunicacional
+15,15. Medidas de Acessibilidade,Capacitação de equipes atuantes nos projetos culturais
+15,15. Medidas de Acessibilidade,"Contratação de profissionais com deficiência e profissionais especializados em Acessibilidade cultural"
+15,15. Medidas de Acessibilidade,"Formação e sensibilização de agentes culturais, público e todos os envolvidos na cadeia produtiva cultural"
+15,15. Medidas de Acessibilidade,Outras medidas que visem a eliminação de atitudes capacitistas.
