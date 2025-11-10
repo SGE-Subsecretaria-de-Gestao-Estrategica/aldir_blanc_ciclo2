@@ -37,7 +37,7 @@ Os dicionários de dados são o componente do Padrão que estabelece as diretriz
 * **Atributo / Descrição:** Apresenta o nome do atributo e, abaixo, uma breve descrição do que ele representa. Use isso como o "rótulo do campo" em seus formulários.
 * **Finalidade:** Explica a motivação para a coleta do dado no contexto da PNAB, orientando seu uso e importância.
 * **Nome formatado:** Define o nome técnico do campo, sugerido para a implementação em sistemas e bancos de dados. Este é o nome que seu sistema deve usar na exportação (ex: cabeçalho da coluna no CSV ou chave no JSON).
-* **Valores possíveis:** Especifica o tipo de dado esperado (ex: `Data (dd/mm/aaaa)) ou referencia uma lista de valores padronizada.
+* **Valores possíveis:** Especifica o tipo de dado esperado (ex: `Data (dd/mm/aaaa)`) ou referencia uma lista de valores padronizada.
   
 
 ### As Listas de Valores (Os "Vocabulários")
@@ -56,74 +56,14 @@ Seja qual for a tecnologia que seu ente utiliza, o objetivo final é o mesmo: **
 
 Para auxiliar nesse processo, mapeamos quatro cenários principais de implementação. Cada cenário possui um plano de ação sugerido, desde o mais simples (uso de planilhas) até o mais robusto (aderência a sistemas existentes ou federais).
 
-* **Cenário 1:** Aderir à plataforma federal Mapa da Cultura (solução integrada).
-* **Cenário 2:** Ajustar um sistema de gestão de editais já existente.
-* **Cenário 3:** Usar planilhas ou formulários online (implementação simplificada).
-* **Cenário 4:** Construir ou contratar um sistema novo.
+* [**Cenário 1: Aderir à plataforma federal Mapa da Cultura (Solução Integrada)**](guia-cenario-1.md)
+* [**Cenário 2: Ajustar um sistema de gestão de editais já existente**](guia-cenario-2.md)
+* [**Cenário 3: Usar planilhas ou formulários online (Implementação Simplificada)**](guia-cenario-3.md)
+* [**Cenário 4: Construir ou contratar um sistema novo**](guia-cenario-4.md)
 
-Abaixo, detalhamos o plano de ação para cada um:
-
-### Cenário 1: "Vou aderir a uma plataforma federal" (Adesão ao Mapa da Cultura)
-
-> **[Cenário ainda em verificação]**
-
-Este cenário prevê a utilização da plataforma Mapa da Cultura (https://mapa.cultura.gov.br/) como ferramenta oficial do ente federativo para a gestão de seus editais. A plataforma já estará aderente ao Padrão SNIIC Ciclo 2, com os dicionários e listas de valores implementados nativamente. A exportação de dados para o MinC será facilitada, pois o sistema já gerará os relatórios no formato correto exigido pelo Padrão.
+Para detalhes completos, planos de ação e exemplos de cada cenário, consulte os guias específicos linkados acima.
 
 ---
-
-### Cenário 2: "Eu já tenho um sistema para gestão de Editais" (Ajuste de Sistema)
-
-Este cenário é para entes que já possuem um software (próprio ou contratado) e devem ajustar bancos de dados existentes para garantir o envio consistente das informações.  
-
-**Plano de Ação:**
-
-1.  **Mapeamento (DE-PARA):** Sua equipe técnica deve fazer um mapeamento campo a campo (DE: seu sistema, PARA: Padrão SNIIC).
-    * *Exemplo:* O campo `Nome do Proponente` no seu sistema deve ser mapeado para o nosso `nome_completo`.   
-2.  **Identificar Lacunas:** Verifique quais atributos dos nossos dicionários **não existem** no seu sistema. Eles precisarão ser criados.
-    * *Exemplo:* "Seu sistema coleta `Cor/Raça`? Coleta `Pautas Temáticas`?"
-3.  **Adequar Listas de Valores:** Este é o ponto mais crítico. Se o seu sistema tem um campo "Segmento Cultural" com valores diferentes dos nossos, ele deve ser **atualizado** para usar *exclusivamente* os valores da [Lista 8. Segmento Cultural](listas-de-valores.md#8-segmento-cultural).
-4.  **Validar Tipos de Dados:** Garanta que os tipos são compatíveis. Se o dicionário pede `Data (dd/mm/aaaa)`, seu campo não pode aceitar texto livre.
-5.  **Desenvolver o Módulo de Exportação:** Seu sistema deve ser capaz de gerar um arquivo (CSV, JSON, etc.) onde os cabeçalhos/chaves sejam os `Nomes formatados` dos nossos dicionários.
-    * _Exemplos de código para exportação em CSV (Python/PHP) e JSON (JavaScript/Python) serão disponibilizados em breve._
-
-### Cenário 3: "Vou usar Planilhas ou Formulários Online" (Implementação Simplificada)
-
-Este cenário é ideal para entes com menor volume de inscrições ou sem equipe de TI dedicada.
-
-**Plano de Ação (Recomendado: Usar Formulários Online):**
-
-1.  **Use Formulários (Google Forms, Microsoft Forms, etc.):** Esta é a forma mais fácil de garantir a qualidade dos dados.
-    * _Um link para um Modelo de Google Forms pré-configurado, espelhando os dicionários, será disponibilizado em breve._
-2.  **Crie os Campos:** Crie uma pergunta para cada `Atributo / Descrição` do dicionário (ex: para a Fase 1, crie um formulário para "Agente Individual", outro para "Proposta de Ação Cultural", etc.).
-3.  **Use Listas Suspensas:** Para cada campo que aponta para uma Lista de Valores (ex: `segmento_cultural_principal`), use a opção "Lista Suspensa" ou "Múltipla Escolha" e copie/cole *exatamente* os valores da nossa [listas-de-valores.md](listas-de-valores.md).
-4.  **Use Validação de Dados:** Use as regras de validação do formulário para garantir que CPF/CNPJ contenham apenas números ou que o e-mail seja válido.
-5.  **Exporte a Planilha:** A resposta do formulário é uma planilha. Você só precisará renomear os cabeçalhos das colunas para que correspondam aos `Nomes formatados` definidos nos dicionários.
-
-**Plano de Ação (Se usar Planilhas diretamente):**
-
-1.  **Crie Planilhas-Modelo:** Crie arquivos (Excel, Google Sheets) para cada entidade (Agente Individual, Proposta de Ação, etc.).
-    * _Um arquivo .xlsx (Excel) com as colunas, validações de dados e listas suspensas pré-configuradas será disponibilizado em breve._
-2.  **Use os `Nomes Formatados`:** Os cabeçalhos das colunas da sua planilha DEVEM ser os `Nomes formatados` (ex: `cpf`, `nome_completo`, `data_nascimento`).
-3.  **Use Validação de Dados:** No Excel ou Google Sheets, use a ferramenta "Validação de Dados" para criar listas suspensas nas células, baseando-se nas [listas-de-valores.md](listas-de-valores.md). Isso evita erros de digitação.
-
-### Cenário 4: "Vou construir ou contratar um novo sistema" (Implementação Completa)
-
-Este cenário é para entes que irão desenvolver um software do zero ou licitar um novo.
-
-**Plano de Ação:**
-
-1.  **Use os Dicionários como Requisito:** Os arquivos `dicionario-fase-1.md` e `dicionario-fase-2.md` **são os requisitos técnicos** para o banco de dados e para os formulários de front-end.
-2.  **Banco de Dados:** Use os `Nomes formatados` como nomes das colunas no seu banco de dados.
-    * _Um script SQL `CREATE TABLE` de exemplo (PostgreSQL/MySQL) será disponibilizado em breve._
-3.  **Front-End (Telas de Inscrição):**
-    * **Rótulo do Campo:** Use o `Atributo / Descrição` (ex: "Nome artístico ou Nome Social").
-    * **Texto de Ajuda:** Use a `Finalidade` (ex: "Assegurar o respeito à identidade de gênero...").
-    * **Validação:** Use os `Valores possíveis` (ex: `Texto Curto (até 100 caracteres)`, `Data (dd/mm/aaaa)`).
-4.  **Listas de Valores:** O sistema deve popular os campos de seleção (dropdowns) buscando os dados *exatos* do arquivo [listas-de-valores.md](listas-de-valores.md).
-5.  **API e Exportação:** O sistema deve, nativamente, ser capaz de exportar os dados da Fase 1 e Fase 2 seguindo 100% o Padrão SNIIC.
-    * _Um exemplo de estrutura de API/JSON para envio ao MinC será disponibilizado em breve._
-
-
 
 ## 3. Envio dos Dados ao MinC
 
@@ -138,3 +78,23 @@ Independentemente do cenário de implementação (Sistema Próprio, Planilha ou 
 * [**`dicionario-fase-1.md`**](dicionario-fase-1.md): Dicionários para coleta na Inscrição (Agentes e Propostas).
 * [**`dicionario-fase-2.md`**](dicionario-fase-2.md): Dicionários para coleta no Relatório (Ação Realizada e Entregas).
 * [**`listas-de-valores.md`**](listas-de-valores.md): Os vocabulários controlados obrigatórios.
+
+---
+
+## 5. Suporte e Dúvidas
+
+Para garantir que os entes federativos tenham o suporte necessário durante a implementação deste padrão, o MinC disponibiliza os seguintes canais de comunicação:
+
+
+---
+
+## 6. Glossário
+
+Para auxiliar equipes técnicas e gestores, seguem definições de termos comuns utilizados neste guia:
+
+* **API (Interface de Programação de Aplicações):** Um conjunto de regras e protocolos que permite que diferentes sistemas de software "conversem" entre si, trocando dados de forma automatizada. No contexto da PNAB, uma API permitiria que o sistema do seu município enviasse dados diretamente para o Cult.BR.
+* **Banco de Dados:** Uma coleção organizada de informações ou dados estruturados, tipicamente armazenados eletronicamente em um sistema de computador. É onde seu sistema de editais (ou planilha) armazena as informações dos proponentes.
+* **CSV (Comma-Separated Values):** Um formato de arquivo de texto simples onde os dados são organizados em linhas, e os valores em cada linha são separados por vírgulas. É o formato de exportação mais comum de planilhas (como o Excel).
+* **Front-End:** A parte de um sistema de software com a qual o usuário interage diretamente. No seu caso, são os formulários de inscrição e relatórios que o agente cultural preenche.
+* **JSON (JavaScript Object Notation):** Um formato de arquivo leve para troca de dados, muito usado em APIs. Ele usa texto legível para transmitir objetos de dados que consistem em pares de atributo-valor.
+* **Script SQL:** Uma linguagem de programação usada para gerenciar e consultar bancos de dados. Um script `CREATE TABLE` é o comando usado para construir a estrutura de uma tabela (ex: a tabela `AgenteIndividual` com suas colunas `cpf`, `nome_completo`, etc.).
