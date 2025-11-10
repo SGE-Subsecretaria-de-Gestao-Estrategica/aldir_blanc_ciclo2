@@ -49,17 +49,18 @@ Para facilitar a importação para o seu banco de dados, este repositório dispo
 * **Recomendação:** A menos que o ente federativo tenha **certeza absoluta** da compatibilidade 1-para-1 entre seus termos e os do Padrão SNIIC, **não faça um DE-PARA automático.** A melhor abordagem é **envolver o usuário (agente cultural)**:
     * **Para novos cadastros:** O formulário de inscrição deve usar *apenas* as novas listas do SNIIC.
     * **Para agentes já cadastrados:** O sistema deve solicitar que os agentes **atualizem seu cadastro** no próximo login, reclassificando-se dentro das novas categorias do Padrão SNIIC. Isso garante a integridade e a precisão semântica dos dados.
+     * Um bom momento é o cadastro em editais (Revisar)
 
 #### Passo 3: Desenvolvimento (Front-End e Back-End)
 Com o diagnóstico do Passo 1 em mãos, sua equipe de TI deverá:
 1.  **Back-end:** Criar as colunas que foram identificadas como **Lacunas** no banco de dados. Implementar as novas tabelas de domínio com as Listas de Valores (Passo 2).
 2.  **Front-end:** Adicionar os novos campos e as listas de valores atualizadas nos formulários de inscrição e de relatório de execução, incluindo o fluxo de atualização cadastral para agentes antigos (conforme Passo 2).
 
-#### Passo 4: Atenção Especial ao Módulo de Exportação
+#### Passo 4: Módulo de Exportação
 O Módulo de Exportação é a funcionalidade do seu sistema que irá gerar o arquivo (CSV, JSON, etc.) a ser enviado ao MinC. Este módulo é a entrega final e deve ter atenção especial, garantindo quatro pontos:
 
 1.  **Nomeação Correta (Cabeçalhos):** O arquivo gerado (ex: um .CSV) **deve** usar os `Nomes formatados` dos dicionários como cabeçalhos das colunas (ex: `nome_completo`, e não `NomeDoProponente`).
-2.  **Tradução de Dados (Se aplicável):** Se você optou por um DE-PARA automático (mesmo com os riscos), é neste módulo que a "tradução" de valores deve ocorrer (ex: `IF seu_sistema.area_cultura = 'Artes Cênicas' THEN 'Teatro'`).
+2.  **Tradução de Dados (Se aplicável):** Se você optou por um DE-PARA automático (mesmo com os riscos), é neste módulo que a "tradução" de valores deve ocorrer (ex: `IF seu_sistema.area_cultura = 'Artes circenses' THEN 'Circo'`).
 3.  **Rastreabilidade (Joins):** O módulo deve garantir a rastreabilidade unindo os dados corretamente. Por exemplo, o arquivo de `Propostas` deve conter o `id_agente` (CPF/CNPJ) que a submeteu; o arquivo de `Ação Realizada` deve conter o `id_proposta` que a originou. (Nota: esta rastreabilidade será detalhada nos próximos "Pontos Críticos").
 4.  **Formato e Validação:** O arquivo deve ser gerado em um formato válido (CSV UTF-8 ou JSON) e os tipos de dados devem estar corretos (ex: datas no formato `dd/mm/aaaa`).
 
