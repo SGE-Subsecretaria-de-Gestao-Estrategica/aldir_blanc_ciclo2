@@ -7,7 +7,8 @@ O objetivo é fornecer diretrizes práticas para a adoção e implementação do
 ## 1. Compreendendo o Padrão de Coleta e o fluxo de ações necessárias. 
 
 Antes de implementar, é crucial entender o que o Padrão de Coleta do Ciclo 2 exige. O padrão não exige que os diferentes softwares do ecossistema PNAB sejam idênticos, mas sim que os **dados coletados** sejam compatíveis. O foco é a **coleta de dados**, não a arquitetura do seu sistema.
-Para entender a lógica completa e o mapeamento do fluxo de informações da PNAB, consulte a nossa [Modelagem Entidade-Relacionamento (mer_pnab.md)](mer_pnab.md).
+
+Para compreender a lógica completa e o mapeamento do fluxo de informações da PNAB, consulte a nossa [Modelagem Entidade-Relacionamento (mer_pnab.md)](mer_pnab.md). Para novas implementações ou adaptações de sistemas de informações já existentes, é fundamental considerar toda a modelagem de dados PNAB. 
 
 ### As Duas Fases da Coleta
 O padrão de coleta é dividido em dois momentos cruciais que refletem o ciclo de vida do fomento:
