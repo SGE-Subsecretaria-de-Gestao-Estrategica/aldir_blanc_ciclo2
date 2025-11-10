@@ -97,9 +97,10 @@ Para garantir que os entes federativos tenham o suporte necessário durante a im
 
 Para auxiliar equipes técnicas e gestores, seguem definições de termos comuns utilizados neste guia:
 
+* **CSV (Comma-Separated Values):** Um formato de arquivo de texto simples onde os dados são organizados em linhas, e os valores em cada linha são separados por vírgulas. É o formato de exportação mais comum de planilhas (como o Excel).
+* **JSON (JavaScript Object Notation):** Um formato de arquivo leve para troca de dados, muito usado em APIs. Ele usa texto legível para transmitir objetos de dados que consistem em pares de atributo-valor.
 * **API (Interface de Programação de Aplicações):** Um conjunto de regras e protocolos que permite que diferentes sistemas de software "conversem" entre si, trocando dados de forma automatizada. No contexto da PNAB, uma API permitiria que o sistema do seu município enviasse dados diretamente para o Cult.BR.
 * **Banco de Dados:** Uma coleção organizada de informações ou dados estruturados, tipicamente armazenados eletronicamente em um sistema de computador. É onde seu sistema de editais (ou planilha) armazena as informações dos proponentes.
-* **CSV (Comma-Separated Values):** Um formato de arquivo de texto simples onde os dados são organizados em linhas, e os valores em cada linha são separados por vírgulas. É o formato de exportação mais comum de planilhas (como o Excel).
 * **Front-End:** A parte de um sistema de software com a qual o usuário interage diretamente. No seu caso, são os formulários de inscrição e relatórios que o agente cultural preenche.
-* **JSON (JavaScript Object Notation):** Um formato de arquivo leve para troca de dados, muito usado em APIs. Ele usa texto legível para transmitir objetos de dados que consistem em pares de atributo-valor.
+* **Back-End:** A parte "de trás" de um sistema de software, que o usuário não vê. É onde os dados são processados, armazenados (no banco de dados) e onde as regras de negócio são executadas. É o oposto do Front-End.
 * **Script SQL:** Uma linguagem de programação usada para gerenciar e consultar bancos de dados. Um script `CREATE TABLE` é o comando usado para construir a estrutura de uma tabela (ex: a tabela `AgenteIndividual` com suas colunas `cpf`, `nome_completo`, etc.).
