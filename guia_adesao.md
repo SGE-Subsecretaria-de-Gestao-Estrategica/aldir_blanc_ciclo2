@@ -85,6 +85,11 @@ Independentemente do cenário de implementação (Sistema Próprio, Planilha ou 
 
 Para garantir que os entes federativos tenham o suporte necessário durante a implementação deste padrão, o MinC disponibiliza os seguintes canais de comunicação:
 
+* Site: https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc 
+* E-mail: pnab@cultura.gov.br
+* Canal do Whatsapp: https://tr.ee/rff1H1JYYuaQ
+* Plantões tira-dúvidas:
+  * Toda quarta-feira, 14h30, agendamento via link: https://calendly.com/minc-scc/atendimento-aldirblanc
 
 ---
 
