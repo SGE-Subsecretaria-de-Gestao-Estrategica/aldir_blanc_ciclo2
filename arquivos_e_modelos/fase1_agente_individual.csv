@@ -1,0 +1,151 @@
+﻿tipo_agente_individual,cpf,cnpj_mei,nome_completo,nome_social_artistico,data_nascimento,email,telefone,cep,uf_residencia,municipio_residencia,endereco_completo,comunidade_tradicional,mestre_cultura_popular,genero,orientacao_sexual,cor_raca,pessoa_com_deficiencia,escolaridade,faixa_renda,anos_experiencia_cultural,acessou_recursos_5anos
+Pessoa física,824.953.160-42,,Maria Liz da Rosa,Juliana Brito,04/11/1964,julia55@example.net,+55 (084) 7812 8248,20681470,RJ,Vargas do Amparo,"Lagoa Cardoso, 46
+Vila Boa Vista
+06561036 da Mata / AP",Ribeirinhos,True,Travesti,Heterossexual,Branca,"Sim, Múltipla, Sim, Intelectual",Ensino superior incompleto ou equivalente,Acima de 10 salários mínimos,5,Sim
+Microempreendedor individual - MEI,209.674.135-16,63.809.572/0001-36,Julia Novaes,Luiz Henrique Vargas,03/08/2001,vianavinicius@example.net,+55 (011) 6581 1600,43859-779,RN,Leão do Norte,"Vila Rafaela Casa Grande, 5
+Nossa Senhora Da Aparecida
+60778520 da Cruz / PB","Ilhéus, Retireiros do Araguaia",True,Mulher trans,Bissexual,Amarela,"Sim, Visual, Sim, Múltipla",Ensino fundamental completo ou equivalente,De 5 a 8 salários mínimos,19,Sim
+Microempreendedor individual - MEI,087.963.524-00,25.876.093/0001-43,Bella Fogaça,Cauã Oliveira,01/09/1942,novaesmaria-vitoria@example.net,(031) 4184-8232,47619008,MG,Silva,"Alameda Barros, 972
+Novo Santa Cecilia
+24925-701 Pimenta dos Dourados / MG","Veredeiros, Caiçaras",False,Prefere não responder,Prefere não responder,Preta,"Sim, Múltipla, Sim, outra (especificar)",Ensino médio completo ou equivalente,De 8 a 10 salários mínimos,38,Não sei
+Microempreendedor individual - MEI,324.689.571-64,56.984.103/0001-98,Luigi Sampaio,,25/07/1995,pedro-miguelvieira@example.com,(071) 6865-6527,52206-306,RJ,Gonçalves do Galho,"Residencial Sá, 277
+Vila Califórnia
+90509173 Duarte de Fernandes / MG",Povos indígenas,True,Não binário,Heterossexual,Amarela,"Sim, Visual",Curso técnico incompleto,Nenhuma renda,23,Sim
+Microempreendedor individual - MEI,836.250.719-59,26.801.374/0001-08,Sra. Rebeca Silva,Dra. Joana Nunes,14/03/2005,sousaana-carolina@example.org,11 0860 6899,64201717,AM,Farias Grande,"Vereda Nicole Nunes, 78
+Vila Fumec
+91336889 Cavalcante da Mata / SE","Juventude de povos e comunidades tradicionais, Benzedeiros",True,Travesti,Lésbica,Preta,"Sim, outra (especificar), Sim, Transtorno do Espectro Autista",Pós-graduação incompleto,Acima de 10 salários mínimos,20,Sim
+Pessoa física,396.217.854-64,,João Gabriel Azevedo,,19/09/1969,egoncalves@example.net,+55 84 2870 1966,99305-997,MG,Cunha,"Pátio de da Paz, 589
+Cônego Pinheiro 2ª Seção
+33062706 Pires / AP","Comunidades de fundos e fechos de pasto, Veredeiros",False,Homem trans,Outra,Preta,"Sim, Física-motora, Sim, Transtorno do Espectro Autista",Ensino superior incompleto ou equivalente,Acima de 10 salários mínimos,2,Não sei
+Pessoa física,451.376.928-91,,Danilo Marques,Sarah Farias,03/08/1978,lucas-gabriel07@example.org,(041) 9817-1786,81377975,AM,Oliveira,"Quadra Gomes, 34
+Dona Clara
+83127716 Rios do Norte / PE","Ribeirinhos, Povos e comunidades de terreiro/de matriz africana",True,Mulher cisgênero,Heterossexual,Branca,"Sim, outra (especificar)",Não possui educação formal,Até 1 salário mínimo,21,Não
+Microempreendedor individual - MEI,674.219.058-20,87.610.293/0001-07,Maria Luiza Fogaça,Lunna Almeida,11/10/1975,kramos@example.org,+55 (011) 6114-9126,82152-318,ES,Pereira,"Quadra Henry Rocha, 26
+Minaslandia
+90458-628 Costela / CE",Pantaneiros,False,Não binário,Gay,Amarela,"Não, Sim, Transtorno do Espectro Autista",Ensino médio incompleto ou equivalente,De 5 a 8 salários mínimos,31,Não
+Pessoa física,082.935.761-03,,Dra. Maitê Garcia,,07/06/1939,jlopes@example.net,+55 61 3664 0444,93212-581,MS,Sampaio Alegre,"Passarela de Rodrigues
+Guarani
+98087-406 Casa Grande / MG",Povos e comunidades de terreiro/de matriz africana,False,Homem trans,Lésbica,Parda,"Sim, Intelectual",Ensino superior completo,Até 1 salário mínimo,9,Sim
+Microempreendedor individual - MEI,178.459.230-79,53.186.479/0001-69,Allana Rios,,02/03/1953,novaesrafael@example.com,(051) 1818 7246,46833-943,RS,Lima dos Dourados,"Rodovia José Miguel Caldeira
+Vila São João Batista
+49224753 Rodrigues do Oeste / MT","Povo pomerano, Caboclos",True,Mulher trans,Gay,Branca,"Sim, Múltipla, Não",Ensino fundamental incompleto ou equivalente,Acima de 10 salários mínimos,46,Não
+Pessoa física,419.738.625-73,,João Miguel Silva,Ana Laura Azevedo,25/10/1991,abreueloa@example.net,+55 11 0243 8771,51547578,AC,Vasconcelos,"Loteamento Pastor, 35
+Mangueiras
+73389171 Siqueira do Amparo / CE","Faxinalenses, Povos e comunidades de terreiro/de matriz africana",True,Homem cisgênero,Bissexual,Preta,Não,Curso técnico incompleto,De 5 a 8 salários mínimos,47,Sim
+Pessoa física,259.741.068-49,,Dra. Helena Borges,Luiz Fernando Novais,25/03/1991,maria-helenaalbuquerque@example.com,+55 61 7467 1769,61134-070,GO,Cirino do Oeste,"Parque Costela
+Unidas
+52241-529 da Luz / PA",Benzedeiros,True,Homem trans,Lésbica,Branca,"Sim, Física-motora, Sim, Transtorno do Espectro Autista",Ensino fundamental incompleto ou equivalente,Acima de 10 salários mínimos,8,Não sei
+Pessoa física,465.190.738-57,,Ísis Freitas,Ágatha Farias,18/11/1990,allanaandrade@example.net,+55 51 0790 9227,87638644,MA,Castro Alegre,"Colônia Gonçalves, 68
+Conjunto Jatoba
+50063247 Machado Grande / RJ","Cipozeiros, Raizeiros",True,Outra,Bissexual,Branca,"Sim, Física-motora, Sim, Intelectual",Pós-graduação completo,Acima de 10 salários mínimos,24,Não
+Pessoa física,692.715.384-55,,Maysa Martins,,11/03/1997,raul40@example.net,81 7751 0585,32083648,PR,da Rocha do Campo,"Viaduto Monteiro, 94
+Independência
+10378229 Cunha / PA","Morroquianos, Povos ciganos",False,Travesti,Lésbica,Parda,Não,Pós-graduação incompleto,Acima de 10 salários mínimos,43,Sim
+Pessoa física,429.013.785-79,,Yan Fernandes,Hadassa da Cunha,10/03/1975,sophieribeiro@example.net,(084) 6223-9096,90754689,RJ,Cardoso do Campo,"Vila de Ferreira, 9
+São Damião
+16306-229 Marques / PR",Caatingueiros,False,Homem trans,Prefere não responder,Amarela,"Sim, Auditiva, Sim, Múltipla",Ensino médio completo ou equivalente,De 5 a 8 salários mínimos,45,Não sei
+Pessoa física,750.694.312-34,,Luiz Henrique Jesus,Kamilly Moura,13/05/1941,goncalvesmirella@example.net,+55 (011) 9431-4240,92317-668,AC,Novais de Rocha,"Largo Mendes, 3
+Liberdade
+44744-823 Martins / RR",Povos indígenas,True,Não binário,Prefere não responder,Parda,"Sim, outra (especificar)",Pós-graduação completo,Nenhuma renda,37,Não sei
+Microempreendedor individual - MEI,016.435.892-70,68.125.049/0001-04,Isaac Nogueira,,26/07/1936,mariane75@example.net,51 5359 4737,10657-506,CE,Moreira do Amparo,"Praça Ravi Lucca Cardoso
+Conjunto Novo Dom Bosco
+75042-808 Leão do Sul / AP",Retireiros do Araguaia,False,Mulher cisgênero,Lésbica,Parda,"Sim, Auditiva, Sim, Física-motora",Ensino superior incompleto ou equivalente,Até 1 salário mínimo,27,Não
+Pessoa física,924.381.506-70,,Isadora Borges,Caio Brito,15/05/1973,lopesfrancisco@example.com,(051) 8820-6440,12227-738,SE,Barros,"Rua da Paz, 46
+Marmiteiros
+05594-288 Pereira do Galho / PR","Extrativistas, Caiçaras",True,Mulher trans,Gay,Amarela,"Sim, Visual",Pós-graduação incompleto,De 8 a 10 salários mínimos,44,Não
+Pessoa física,103.458.927-04,,Enzo Gabriel Alves,Sr. Pedro Novaes,21/09/1938,da-pazpedro-lucas@example.com,31 1496 4051,63955-574,RN,Sá da Mata,"Fazenda Giovanna da Mata, 40
+Coqueiros
+19745061 Siqueira do Sul / TO","Vazanteiros, Benzedeiros",False,Outra,Prefere não responder,Amarela,"Não, Sim, Transtorno do Espectro Autista",Ensino médio incompleto ou equivalente,Acima de 10 salários mínimos,11,Não
+Pessoa física,372.961.085-68,,Eloah Sales,Cecilia Martins,10/09/2004,sabrinanascimento@example.net,+55 51 4279 6665,25381-034,GO,Pimenta,"Viaduto Agatha da Luz, 44
+Xangri-Lá
+78239-609 Novais / BA","Quebradeiras de coco babaçu, Povo pomerano",False,Outra,Bissexual,Parda,"Sim, outra (especificar)",Ensino médio incompleto ou equivalente,De 3 a 5 salários mínimos,3,Não
+Pessoa física,305.642.987-00,,Rafael Carvalho,Vitor Pereira,21/06/1993,josue51@example.org,81 6372-2520,82724517,RO,Rocha,"Trecho Mendes, 25
+Vila São Gabriel Jacui
+59470124 Câmara / MT",Vazanteiros,True,Mulher cisgênero,Lésbica,Branca,"Sim, Intelectual, Sim, Visual",Não possui educação formal,Acima de 10 salários mínimos,4,Sim
+Pessoa física,690.821.345-51,,Enzo da Mata,Bruno Garcia,13/07/1993,silveiraagatha@example.net,(084) 0191-3920,59415-998,DF,Vasconcelos,"Núcleo de Mendonça, 800
+Urca
+53461-487 Fonseca de Teixeira / PB","Caiçaras, Geraizeiros",True,Não binário,Prefere não responder,Parda,"Sim, Transtorno do Espectro Autista",Ensino médio completo ou equivalente,De 5 a 8 salários mínimos,36,Não sei
+Microempreendedor individual - MEI,582.397.061-77,31.057.692/0001-38,Kamilly Pimenta,Cauê Fogaça,26/05/2003,cmachado@example.com,+55 81 7673 9355,20731-742,MS,Siqueira de Duarte,"Feira de Abreu, 93
+Santa Efigênia
+60715-200 Dias de Albuquerque / TO","Ilhéus, Comunidades de fundos e fechos de pasto",True,Não binário,Gay,Preta,"Sim, Transtorno do Espectro Autista, Sim, Visual",Pós-graduação incompleto,Nenhuma renda,37,Não sei
+Pessoa física,329.176.504-43,,José Duarte,,15/12/1973,ulopes@example.com,0800 160 7996,46557079,PI,Casa Grande,"Pátio de Câmara, 62
+Olhos D'água
+34720145 Câmara / SP",Povo pomerano,True,Mulher cisgênero,Outra,Amarela,"Sim, Física-motora",Não possui educação formal,Nenhuma renda,42,Sim
+Pessoa física,815.902.764-85,,Sarah Cassiano,,05/01/2004,melina94@example.com,+55 (021) 2970 8698,22821572,AC,Costela da Serra,"Sítio de Pastor, 33
+Lagoinha Leblon
+43769-576 Costela / PR",Benzedeiros,False,Prefere não responder,Bissexual,Indígena,"Sim, Visual",Pós-graduação incompleto,Até 1 salário mínimo,44,Não sei
+Pessoa física,967.482.135-09,,Asafe Pimenta,Caroline Duarte,31/08/1960,isis52@example.com,+55 (051) 6852 3425,90101-428,AM,Marques,"Largo Freitas, 3
+Vila São Geraldo
+01780531 Oliveira da Praia / PB","Benzedeiros, Apanhadores de flores sempre vivas",True,Outra,Outra,Preta,"Sim, Intelectual",Ensino superior completo,De 5 a 8 salários mínimos,38,Sim
+Pessoa física,634.872.015-26,,Julia Vasconcelos,,16/11/1983,henriquefreitas@example.net,(071) 2905 0667,74508-652,CE,Moraes Paulista,"Distrito de Fogaça, 45
+Boa União 2ª Seção
+16476-054 Araújo das Pedras / DF",Não pertence a povos ou comunidades tradicionais.,False,Outra,Heterossexual,Parda,"Sim, Visual, Sim, Múltipla",Ensino fundamental completo ou equivalente,Até 1 salário mínimo,33,Sim
+Pessoa física,819.304.567-00,,Evelyn Nunes,,02/04/1953,freitasanthony-gabriel@example.com,41 9985 1785,10229840,RR,Fonseca das Pedras,"Morro Brito, 71
+Cabana Do Pai Tomás
+89318280 Monteiro / AC",Extrativistas,True,Prefere não responder,Bissexual,Indígena,"Sim, Múltipla, Sim, outra (especificar)",Ensino superior completo,Acima de 10 salários mínimos,24,Sim
+Pessoa física,016.978.532-77,,Levi Vargas,,17/03/1983,nmacedo@example.net,+55 31 4618-7651,64861-060,SP,Vieira dos Dourados,"Chácara Pacheco, 99
+Vila Fumec
+77281674 Fernandes do Oeste / DF",Raizeiros,True,Travesti,Gay,Parda,"Sim, Múltipla, Não",Ensino superior completo,De 3 a 5 salários mínimos,11,Não sei
+Pessoa física,017.594.863-10,,Marcos Vinicius Nascimento,,07/08/1989,mpereira@example.com,(061) 6800 9192,47670-081,SP,Moura de Garcia,"Alameda da Luz, 68
+Nova Pampulha
+35341587 Peixoto Verde / MG","Geraizeiros, Extrativistas costeiros e marinhos",False,Não binário,Bissexual,Branca,"Sim, Auditiva, Sim, outra (especificar)",Pós-graduação incompleto,De 8 a 10 salários mínimos,5,Sim
+Microempreendedor individual - MEI,394.876.250-38,19.650.427/0001-63,Isis Teixeira,,01/08/1991,tsantos@example.net,+55 (081) 4797-8038,01777677,TO,Andrade de Brito,"Largo Cauê Pires, 411
+Pindura Saia
+17053747 Camargo / AM",Quebradeiras de coco babaçu,False,Homem trans,Gay,Preta,"Sim, Intelectual",Curso técnico incompleto,De 5 a 8 salários mínimos,46,Sim
+Pessoa física,842.036.719-22,,Aurora Borges,,06/04/1977,andradekaique@example.org,0300-324-2250,49508666,MT,Lima,"Área de Lopes, 16
+Leonina
+34193589 Santos / PB",Caiçaras,False,Prefere não responder,Gay,Amarela,"Sim, Múltipla",Pós-graduação incompleto,De 8 a 10 salários mínimos,12,Não sei
+Microempreendedor individual - MEI,715.089.362-77,16.347.520/0001-05,Thiago Freitas,Theo Jesus,28/11/1964,renanaparecida@example.org,(084) 3441 0323,40407-839,PA,Costa do Sul,"Viaduto Bruna Vargas, 87
+Paraíso
+67425-984 Moreira da Mata / PI","Veredeiros, Extrativistas",True,Mulher cisgênero,Bissexual,Indígena,"Sim, Transtorno do Espectro Autista, Sim, Visual",Ensino superior completo,Acima de 10 salários mínimos,23,Não sei
+Microempreendedor individual - MEI,352.749.810-97,64.083.721/0001-95,Esther Cunha,Vitória Rios,10/05/1989,camargolorena@example.com,+55 (084) 8005-0906,18012-185,SP,Sousa,"Passarela Luiz Otávio Castro, 58
+Conjunto Bonsucesso
+60140-535 da Mota das Flores / PR",Apanhadores de flores sempre vivas,False,Travesti,Heterossexual,Indígena,"Sim, Múltipla, Não",Curso técnico completo,Até 1 salário mínimo,14,Sim
+Microempreendedor individual - MEI,561.798.024-67,40.732.856/0001-76,Bárbara Vargas,,16/03/1980,biancacastro@example.com,0800 538 1922,83360251,SE,Silva de Rocha,"Distrito de Azevedo, 310
+Palmeiras
+69575880 Andrade de Santos / CE",Pantaneiros,False,Homem trans,Heterossexual,Indígena,"Sim, Auditiva",Não possui educação formal,De 5 a 8 salários mínimos,10,Não sei
+Microempreendedor individual - MEI,913.546.780-01,36.015.749/0001-50,Danilo Gonçalves,,17/05/1955,rezendegabriela@example.org,+55 (041) 7209 8398,84197-256,RO,Moraes,"Praça Nascimento, 31
+Jonas Veiga
+59072-062 Pimenta da Mata / TO","Andirobeiros, Retireiros do Araguaia",True,Prefere não responder,Heterossexual,Parda,"Sim, outra (especificar)",Ensino fundamental incompleto ou equivalente,Nenhuma renda,19,Não sei
+Microempreendedor individual - MEI,283.967.514-55,68.241.907/0001-86,Maria Oliveira,,14/05/2001,miguel30@example.com,+55 (071) 0335-2591,29645-071,MT,Rios Alegre,"Colônia de Moreira
+Lorena
+01849-818 Andrade da Praia / CE","Comunidades quilombolas, Retireiros do Araguaia",True,Mulher cisgênero,Lésbica,Parda,"Sim, Transtorno do Espectro Autista, Não",Ensino fundamental incompleto ou equivalente,De 3 a 5 salários mínimos,22,Sim
+Microempreendedor individual - MEI,765.821.930-40,97.520.384/0001-05,Luiz Otávio Aragão,Lucca Rezende,18/09/1981,valentim65@example.org,+55 (071) 3696 9106,64123691,PI,da Luz do Sul,"Estação Evelyn Carvalho, 12
+Mantiqueira
+93119-466 da Mota Grande / GO","Faxinalenses, Comunidades quilombolas",True,Prefere não responder,Heterossexual,Amarela,"Sim, Múltipla",Não possui educação formal,De 5 a 8 salários mínimos,21,Sim
+Pessoa física,597.012.463-06,,Emanuel da Cruz,Antonella Rocha,07/12/1978,pimentabella@example.net,81 6498 7024,90486-261,PR,Pimenta,"Núcleo Esther Sousa
+Delta
+20559413 Sales de Minas / RJ","Povos indígenas, Ilhéus",True,Prefere não responder,Prefere não responder,Branca,"Sim, outra (especificar), Sim, Visual",Ensino fundamental completo ou equivalente,Até 1 salário mínimo,29,Não sei
+Microempreendedor individual - MEI,490.736.518-75,31.586.420/0001-25,Luiz Gustavo Souza,Luiza Rezende,13/11/1999,upinto@example.org,41 6199-3740,78324032,RJ,Fernandes de Minas,"Travessa Ágatha Sousa, 1
+Vila Sesc
+50877-229 Dias / PB",Raizeiros,False,Outra,Bissexual,Indígena,"Sim, Auditiva",Não possui educação formal,Acima de 10 salários mínimos,37,Não
+Pessoa física,327.460.591-34,,Helena Machado,Leonardo Peixoto,01/10/2006,salesvicente@example.org,84 5002-9332,17062-657,MT,Barros das Pedras,"Travessa de Camargo, 54
+Serra Do Curral
+49437-077 Martins / AP",Caiçaras,False,Mulher cisgênero,Bissexual,Preta,"Sim, Intelectual",Ensino médio completo ou equivalente,De 5 a 8 salários mínimos,28,Não
+Microempreendedor individual - MEI,514.370.692-07,40.697.218/0001-61,Sra. Lavínia Costela,,10/08/1951,rezendeana-liz@example.org,(081) 1102 0130,49915923,AL,Vargas de Nunes,"Parque Lucas Gabriel Aragão, 7
+Vila Independencia 1ª Seção
+39767822 Cardoso de Jesus / SC","Raizeiros, Caatingueiros",False,Homem trans,Gay,Indígena,"Sim, Intelectual",Ensino superior completo,De 5 a 8 salários mínimos,18,Sim
+Microempreendedor individual - MEI,910.548.372-79,80.176.435/0001-20,Laura Rocha,,18/05/1967,nandrade@example.net,+55 (011) 8038-5802,67214-304,PA,Câmara de Goiás,"Pátio Maria Sophia da Costa, 4
+Mangueiras
+02566-934 Fogaça da Praia / TO","Veredeiros, Caatingueiros",True,Travesti,Outra,Parda,"Sim, Intelectual, Sim, Auditiva",Não possui educação formal,De 8 a 10 salários mínimos,10,Não sei
+Microempreendedor individual - MEI,860.725.391-30,89.072.345/0001-64,Joana Moraes,Marcelo Porto,27/02/1999,ana-liviacavalcante@example.net,+55 71 4348-1910,06578258,MA,da Paz das Pedras,"Área de Rios
+Lagoa
+05745-510 Santos do Oeste / RR","Caiçaras, Povos indígenas",True,Homem trans,Gay,Preta,"Sim, Física-motora",Ensino médio completo ou equivalente,Acima de 10 salários mínimos,27,Não sei
+Microempreendedor individual - MEI,021.534.796-06,21.793.084/0001-38,Dr. Benicio Vasconcelos,,31/01/1950,aparecidaclarice@example.com,+55 (011) 9682 0304,34708214,MA,Sales do Oeste,"Travessa Correia, 661
+São Cristóvão
+23044901 Abreu / CE","Pantaneiros, Retireiros do Araguaia",True,Outra,Gay,Indígena,"Sim, Auditiva, Sim, Transtorno do Espectro Autista",Não possui educação formal,Até 1 salário mínimo,1,Sim
+Pessoa física,740.968.513-10,,Isabella Dias,,25/03/1975,emanuellymachado@example.com,+55 (041) 2642-0278,88415436,MG,Duarte da Serra,"Largo Moraes, 52
+Minas Brasil
+24968-009 Lopes / BA","Povos e comunidades de terreiro/de matriz africana, Pantaneiros",True,Prefere não responder,Gay,Indígena,Não,Ensino superior completo,De 3 a 5 salários mínimos,41,Não
+Microempreendedor individual - MEI,780.693.254-29,59.162.347/0001-83,Hellena Câmara,Maria Cecília Pereira,10/07/1987,maria-laura79@example.net,+55 (031) 9538 0752,18529-624,PB,Pereira da Prata,"Viaduto de Freitas, 825
+Satelite
+21818138 Novais das Flores / AL",Faxinalenses,True,Não binário,Bissexual,Branca,"Sim, Múltipla, Não",Ensino fundamental completo ou equivalente,De 1 a 3 salários mínimos,6,Sim
+Microempreendedor individual - MEI,820.167.539-86,26.173.958/0001-78,Srta. Maria Luísa Guerra,Isaac da Paz,23/03/1981,britogustavo-henrique@example.net,84 0414-6452,33389956,MS,Monteiro,"Aeroporto de Machado, 390
+Mangabeiras
+00971047 Castro / PE","Caatingueiros, Andirobeiros",True,Mulher trans,Prefere não responder,Indígena,"Sim, Visual",Ensino fundamental incompleto ou equivalente,De 1 a 3 salários mínimos,45,Não sei
+Microempreendedor individual - MEI,510.984.627-85,61.029.483/0001-41,Asafe da Conceição,,04/12/1940,vitor-gabrielteixeira@example.org,+55 (041) 3362 8116,31573601,RR,Fonseca da Mata,"Condomínio de Marques, 45
+Estrela Do Oriente
+23674-764 Peixoto Grande / AM","Retireiros do Araguaia, Extrativistas costeiros e marinhos",False,Mulher cisgênero,Bissexual,Parda,"Sim, Múltipla, Sim, Transtorno do Espectro Autista",Ensino fundamental completo ou equivalente,De 5 a 8 salários mínimos,17,Não sei
+Microempreendedor individual - MEI,618.073.425-90,80.265.731/0001-06,Pedro Miguel Nogueira,,19/04/1960,yan10@example.org,0900 314 7721,05526-968,AL,Gomes,"Rodovia de Aragão
+Vila Boa Vista
+03152405 Moreira da Prata / PE",Morroquianos,False,Travesti,Prefere não responder,Preta,"Não, Sim, Física-motora",Ensino fundamental completo ou equivalente,Acima de 10 salários mínimos,27,Não

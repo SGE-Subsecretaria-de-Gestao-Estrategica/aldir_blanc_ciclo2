@@ -1,0 +1,151 @@
+﻿tipo_pessoa_juridica,cnpj,razao_social,nome_fantasia,data_fundacao,nome_representante_legal,cpf_representante_legal,email_organizacao,telefone_organizacao,cep_sede,endereco_sede,municipio_sede,uf_sede,anos_atuacao_cultural,acessou_recursos_5anos_org
+Pessoa Jurídica com fins lucrativos (empresas),39.705.648/0001-07,da Mota,,17/10/2019,Isabella Vieira,385.294.761-82,cauacastro@example.net,+55 (061) 0623 4442,63364-792,"Lago Yasmin Aragão, 35
+Alpes
+55873-940 Pastor das Flores / DF",Moraes da Prata,AM,42,Não sei
+Pessoa Jurídica sem fins lucrativos (OSCs),62.580.479/0001-30,Cirino S.A.,da Mata - ME,21/06/1996,Luana Gonçalves,736.529.481-73,mateusmendes@example.org,21 2349-7901,15420812,"Lagoa de Cunha, 18
+Dom Cabral
+31439-431 Rios / MG",Silveira das Flores,RN,47,Não sei
+Pessoa Jurídica com fins lucrativos (empresas),90.218.745/0001-14,Duarte S.A.,Cavalcanti - EI,14/02/1932,Dra. Alice Albuquerque,361.825.497-00,camaraluiz-henrique@example.com,(081) 6014-8655,64791204,"Estação de Carvalho
+Lindéia
+55772633 Almeida / PB",Costela,TO,8,Não
+Pessoa Jurídica sem fins lucrativos (OSCs),63.751.928/0001-28,Andrade,,13/03/1996,Vitor Gabriel Moreira,198.247.635-46,wrios@example.com,(011) 4681 1887,53641-845,"Vila de Casa Grande, 9
+Vila Primeiro De Maio
+96610009 Martins de Goiás / RO",Dias do Amparo,MG,6,Sim
+Pessoa Jurídica sem fins lucrativos (OSCs),87.901.256/0001-58,Carvalho,,02/07/1930,Sr. Ravi Porto,697.312.504-25,marianasilva@example.org,31 4340 7809,44702936,"Colônia de Jesus, 28
+Vila Santo Antônio Barroquinha
+87963-241 da Costa de Pacheco / RJ",Mendes,AM,80,Não sei
+Pessoa Jurídica sem fins lucrativos (OSCs),30.679.512/0001-97,da Mota Ramos S/A,da Costa,31/10/1939,Igor Jesus,603.472.598-47,hnunes@example.net,41 4534 1992,84607655,"Lagoa Ana Carolina da Mata, 95
+Novo Das Industrias
+71981-457 Moreira de Cavalcanti / PR",da Rocha Grande,RO,57,Não
+Pessoa Jurídica com fins lucrativos (empresas),69.432.810/0001-13,da Costa Albuquerque - EI,,14/09/1928,Marina Caldeira,805.239.674-38,qgomes@example.com,+55 84 9862 1386,14421155,"Lagoa de Vasconcelos
+Novo Das Industrias
+76389-496 da Mota do Campo / PB",Teixeira das Flores,RR,32,Não
+Pessoa Jurídica com fins lucrativos (empresas),73.910.584/0001-06,Rodrigues,Nascimento,15/04/1989,Davi Lucas Araújo,609.748.235-38,xvargas@example.com,+55 (071) 6796 8348,56988-614,"Passarela Valentim Ramos, 18
+Boa Vista
+81299963 Oliveira do Norte / ES",Pereira,RS,45,Não sei
+Pessoa Jurídica com fins lucrativos (empresas),61.928.473/0001-48,Albuquerque,Correia Ltda.,18/01/2013,Maria Isis Barros,867.321.590-03,luigi41@example.org,(051) 1851-6227,20852-112,"Praia Ribeiro, 51
+Coqueiros
+19436239 Novais de Goiás / RR",Nunes das Flores,ES,41,Sim
+Pessoa Jurídica com fins lucrativos (empresas),80.659.234/0001-84,da Cunha Camargo e Filhos,,19/12/1957,Juan Araújo,803.762.195-21,cassianojoao-lucas@example.com,+55 (084) 9501 4597,29658036,"Viela Camargo, 962
+Ouro Preto
+98964-846 Moura da Prata / PI",Novais,PI,73,Não sei
+Pessoa Jurídica sem fins lucrativos (OSCs),09.754.132/0001-83,Lima Ltda.,Ferreira e Filhos,06/12/1982,Luana Câmara,648.591.307-66,vitor-gabriel34@example.org,(041) 8056-4712,64087122,"Favela Bruno Cavalcante, 51
+Vila Engenho Nogueira
+35032521 das Neves / RN",Moreira,AP,41,Sim
+Pessoa Jurídica sem fins lucrativos (OSCs),85.361.972/0001-64,Fernandes,Fogaça - EI,29/08/1954,Cauã Monteiro,715.462.398-55,marcos-vinicius00@example.org,51 8064 4384,57729-733,"Vila de Montenegro, 66
+Vila Santa Rosa
+59713-459 Ferreira de Minas / RN",Albuquerque,PA,77,Sim
+Pessoa Jurídica com fins lucrativos (empresas),90.734.126/0001-82,Ramos Nascimento Ltda.,Campos,24/09/2013,Maria Julia Barros,902.517.634-80,xfernandes@example.org,(084) 7527-8530,53767-749,"Quadra de Viana, 37
+Barreiro
+81057-339 Melo / RO",da Luz do Sul,AC,64,Não sei
+Pessoa Jurídica com fins lucrativos (empresas),69.137.284/0001-69,Sousa Moraes Ltda.,Mendes,25/07/1973,Benjamin Leão,895.432.710-97,martinsisabela@example.net,+55 (021) 5838-6725,15829-443,"Feira da Costa, 2
+Boa Vista
+29540-853 Azevedo / GO",Monteiro,SE,35,Não
+Pessoa Jurídica sem fins lucrativos (OSCs),04.693.875/0001-77,Santos S.A.,,21/05/2019,Luiz Miguel Fogaça,283.706.591-95,diascarolina@example.org,(021) 6712-0614,21549700,"Pátio Mendes, 71
+Nova America
+80295605 Barbosa / ES",Barbosa,PA,81,Não
+Pessoa Jurídica sem fins lucrativos (OSCs),70.361.258/0001-07,Teixeira,Costa Aragão Ltda.,27/09/1937,Liz Ramos,018.753.946-48,aragaootavio@example.com,(041) 1944 2758,91446-724,"Vila Porto, 52
+Ribeiro De Abreu
+95241-112 Sampaio de Moura / RN",Porto,GO,46,Sim
+Pessoa Jurídica com fins lucrativos (empresas),08.214.596/0001-34,Costa,Guerra,29/07/2007,Gabriela Cassiano,091.872.465-11,valentinamachado@example.org,84 9953 1402,80412-097,"Aeroporto Casa Grande, 80
+São Sebastião
+38971468 Fogaça / RS",Marques do Oeste,MG,51,Sim
+Pessoa Jurídica com fins lucrativos (empresas),50.824.736/0001-52,Jesus Pereira Ltda.,,21/07/1953,Sarah Sousa,571.283.964-46,rafael67@example.com,+55 11 7305 5192,20613-726,"Vale Gabriela Machado, 10
+Conjunto Taquaril
+26039-020 Fonseca / PI",Novaes Grande,MA,54,Não sei
+Pessoa Jurídica com fins lucrativos (empresas),54.716.203/0001-08,Dias,Cavalcanti,03/04/1989,Davi da Cunha,015.298.736-30,olima@example.org,(084) 8669-8911,21859821,"Feira de Campos, 2
+Canadá
+01564-604 Souza da Mata / MS",da Cunha,AC,48,Não sei
+Pessoa Jurídica com fins lucrativos (empresas),71.642.580/0001-69,Costa Fogaça Ltda.,,05/06/1925,Ana Liz das Neves,582.047.936-00,diasmaysa@example.com,+55 (061) 5853-0731,55738-903,"Jardim Mendes, 27
+Serra Verde
+65293-614 Fogaça / GO",Fernandes Paulista,BA,98,Não sei
+Pessoa Jurídica com fins lucrativos (empresas),49.570.321/0001-10,Dias Ltda.,Cavalcante Caldeira e Filhos,28/03/1995,Maria Sophia Monteiro,507.436.821-90,hlima@example.net,+55 (021) 8055-4884,65249050,"Rua de Souza, 96
+Ambrosina
+61016554 Silva / MS",Andrade das Pedras,PE,48,Não
+Pessoa Jurídica sem fins lucrativos (OSCs),26.140.389/0001-64,Freitas Fogaça S.A.,,10/06/2017,Sophie Sampaio,160.752.934-34,antoniocarvalho@example.net,0500 174 2807,16602-807,"Lagoa de Pereira, 370
+São Paulo
+06916540 Novaes / BA",Macedo,RO,69,Sim
+Pessoa Jurídica sem fins lucrativos (OSCs),82.306.541/0001-07,Cavalcante,Nascimento,21/08/2022,Ian Teixeira,570.691.283-12,allana03@example.org,0300-166-2571,73438621,"Pátio Lorena das Neves, 71
+Conjunto Bonsucesso
+06537504 da Cruz do Oeste / PB",Mendes da Serra,MS,100,Não
+Pessoa Jurídica com fins lucrativos (empresas),05.297.164/0001-46,Cavalcanti e Filhos,,25/09/1942,Milena Pacheco,245.963.871-09,costacamila@example.net,(031) 7780-2406,65913374,"Feira Silveira, 21
+Juliana
+55716196 Sampaio / RO",Porto,RO,56,Sim
+Pessoa Jurídica sem fins lucrativos (OSCs),62.135.948/0001-01,Castro,,20/11/1971,João Guilherme Rezende,760.214.859-20,wteixeira@example.org,+55 (084) 3665 5082,38202640,"Trevo de Costa
+Barroca
+06615552 Ramos de Goiás / PA",Almeida de Caldeira,SE,93,Sim
+Pessoa Jurídica sem fins lucrativos (OSCs),52.136.098/0001-02,Andrade,,11/12/1970,Sr. Heitor Casa Grande,435.671.092-43,marianaoliveira@example.net,21 9789-1172,60232188,"Chácara de Martins, 98
+Vila Mangueiras
+94959047 Gomes / RO",Machado da Praia,ES,43,Sim
+Pessoa Jurídica com fins lucrativos (empresas),76.295.843/0001-24,Vieira - EI,da Rocha,26/02/1967,Sra. Mariana Andrade,021.358.497-23,beatriz38@example.net,(081) 1263 7418,49163-679,"Via da Rosa, 86
+Madre Gertrudes
+73105-953 Pimenta / GO",Aragão,ES,60,Não sei
+Pessoa Jurídica com fins lucrativos (empresas),50.914.386/0001-15,Vargas,,05/01/1934,Allana Vasconcelos,625.379.841-37,paulocorreia@example.com,0800 568 0183,28197782,"Colônia Castro, 74
+Xangri-Lá
+99537073 Guerra / BA",Azevedo das Flores,PR,82,Não sei
+Pessoa Jurídica com fins lucrativos (empresas),05.943.621/0001-22,Aragão das Neves S.A.,,07/01/1975,Pedro Lucas Casa Grande,546.079.123-52,machadoisaac@example.net,(071) 6731 6162,74585-803,"Sítio Cavalcante, 6
+Laranjeiras
+58636-337 Freitas / MG",Rezende,MG,94,Sim
+Pessoa Jurídica sem fins lucrativos (OSCs),98.021.435/0001-17,Lima,,19/03/1932,Valentina Casa Grande,937.024.816-13,leandro33@example.org,0500 039 6433,60038-132,"Praça Guerra, 37
+Ouro Preto
+64856911 Rezende / BA",Monteiro,DF,100,Sim
+Pessoa Jurídica com fins lucrativos (empresas),65.430.918/0001-16,Fonseca da Paz Ltda.,Costa S/A,29/12/1982,Luara Monteiro,601.435.892-70,dlima@example.net,(011) 5675 0066,25269-932,"Quadra Costela
+Nova Suíça
+32833099 Azevedo do Oeste / MA",Monteiro da Prata,PB,36,Sim
+Pessoa Jurídica com fins lucrativos (empresas),70.261.538/0001-35,Araújo Ltda.,,29/07/2004,Ana Laura Cavalcante,201.968.735-68,rochazoe@example.com,0300 698 1155,88574362,"Travessa de Novais, 932
+Nova Granada
+46170-064 Cardoso / GO",Nascimento,PR,64,Sim
+Pessoa Jurídica sem fins lucrativos (OSCs),15.687.392/0001-86,Andrade S.A.,,06/04/2022,Fernanda Leão,615.873.429-28,henry-gabrielsiqueira@example.net,(071) 8646-7731,27681-481,"Vereda de Pinto, 2
+Vila Nova Dos Milionarios
+53277-330 Cavalcante / ES",da Cunha de Moreira,PA,15,Não
+Pessoa Jurídica com fins lucrativos (empresas),37.524.196/0001-23,Ribeiro,,19/08/1952,Alexandre Correia,348.702.615-53,opeixoto@example.com,61 7686 5734,59245-442,"Distrito Ribeiro, 69
+Maravilha
+43383-138 Pimenta / MT",Aparecida,ES,92,Não sei
+Pessoa Jurídica sem fins lucrativos (OSCs),96.217.384/0001-78,da Rocha,das Neves e Filhos,19/08/1953,Luiz Miguel Gonçalves,824.790.536-10,zmoura@example.net,71 5636 4932,73263423,"Avenida Luísa Novaes, 40
+São Pedro
+81601201 Cunha / PR",Silva das Flores,PI,30,Não sei
+Pessoa Jurídica com fins lucrativos (empresas),18.972.654/0001-42,Castro,,21/11/2005,Lucas Gabriel Teixeira,341.867.920-03,msampaio@example.net,61 2666-3090,29095-654,"Morro Catarina Fernandes, 839
+Novo Das Industrias
+36788-151 Lima / RR",Moura,GO,74,Não
+Pessoa Jurídica sem fins lucrativos (OSCs),40.931.725/0001-18,Novais - ME,,04/04/1995,Leandro Nunes,598.237.401-60,salesdavi@example.net,+55 71 5318 3534,47647-245,"Feira Lima, 795
+Estrela
+22201-810 da Mota de Goiás / AP",Pacheco do Norte,PE,28,Não
+Pessoa Jurídica com fins lucrativos (empresas),53.092.618/0001-95,Barros - EI,Fogaça,29/11/1989,Sra. Mirella Sales,971.346.852-09,joao-felipeoliveira@example.org,+55 51 7180 5851,04333-221,"Distrito Miguel Cardoso
+Castelo
+92590-963 Siqueira / PE",Guerra da Serra,BA,14,Sim
+Pessoa Jurídica sem fins lucrativos (OSCs),90.538.412/0001-72,Andrade da Cunha S.A.,,23/08/2003,Benício Fonseca,685.742.901-49,matheusda-conceicao@example.org,+55 11 6842-2367,76118-015,"Fazenda Cecília Montenegro, 35
+Olaria
+42610-302 Nascimento / AP",Campos,RS,18,Sim
+Pessoa Jurídica com fins lucrativos (empresas),03.264.958/0001-88,Pastor,,27/03/2009,Kamilly Farias,618.340.927-87,nda-paz@example.org,+55 21 7490 8154,84422439,"Distrito das Neves, 49
+Salgado Filho
+50582171 Leão / TO",Abreu do Amparo,CE,49,Não sei
+Pessoa Jurídica sem fins lucrativos (OSCs),23.419.605/0001-17,Andrade,,27/03/1957,Carlos Eduardo Fernandes,078.349.562-56,aparecidazoe@example.org,41 1799-5509,56953-488,"Chácara de Machado, 60
+Savassi
+41062320 Lopes / TO",Marques,AC,45,Não sei
+Pessoa Jurídica sem fins lucrativos (OSCs),47.092.683/0001-18,Campos,,19/10/1951,Pedro Guerra,179.254.068-01,pda-conceicao@example.com,+55 (061) 3258-9028,99606-640,"Colônia de Alves, 15
+Vila Ipiranga
+79342-391 Leão da Serra / MS",Alves,SP,57,Sim
+Pessoa Jurídica com fins lucrativos (empresas),90.271.845/0001-04,Sousa Silveira - ME,,29/07/2005,Igor Cardoso,631.524.870-53,uaraujo@example.org,(071) 2919-5496,86923-443,"Condomínio Fonseca, 2
+Luxemburgo
+45072-204 Gonçalves de Macedo / BA",Nunes,MG,90,Sim
+Pessoa Jurídica com fins lucrativos (empresas),16.328.749/0001-00,Ferreira Almeida - EI,Almeida S/A,26/10/2008,Dra. Maria Liz Souza,479.508.326-65,fernandocampos@example.net,84 7800-5631,19394541,"Vereda Pereira, 30
+Maria Helena
+50386-439 Cavalcante do Norte / CE",Barros da Prata,PI,60,Não
+Pessoa Jurídica sem fins lucrativos (OSCs),56.472.983/0001-13,Camargo,Cassiano Ferreira e Filhos,18/07/1961,Dra. Alexia Nascimento,452.819.073-79,sdias@example.org,+55 (061) 0804-1642,80883833,"Setor de Rezende, 2
+Vila São Paulo
+28346-577 Cavalcanti / ES",Vasconcelos Verde,PI,28,Não
+Pessoa Jurídica sem fins lucrativos (OSCs),81.742.560/0001-13,Sá S/A,,15/10/1937,Dra. Pietra Martins,942.651.738-37,marquesclarice@example.net,+55 (031) 9443-7433,02717-510,"Núcleo Maria Mendonça
+São João Batista
+54798-443 Lima / ES",Fernandes do Norte,PA,8,Não sei
+Pessoa Jurídica sem fins lucrativos (OSCs),13.490.287/0001-27,Vasconcelos - ME,Cardoso Ltda.,26/07/2006,Catarina Castro,190.648.352-33,silvaravi-lucca@example.com,(071) 3795-4426,04164460,"Núcleo de Pimenta, 908
+Acaba Mundo
+02306-655 da Luz / RO",Cunha,ES,9,Não
+Pessoa Jurídica com fins lucrativos (empresas),81.043.725/0001-69,Pimenta,Cardoso,07/04/1951,Paulo da Conceição,429.637.018-96,pachecolavinia@example.net,41 3407 5480,90902723,"Trevo Pereira, 27
+Vila Mangueiras
+97404-580 Rocha do Oeste / AC",Macedo do Campo,RJ,32,Sim
+Pessoa Jurídica com fins lucrativos (empresas),12.978.350/0001-06,Siqueira Dias - ME,,07/02/1968,Carlos Eduardo Camargo,928.651.347-09,amachado@example.com,81 4297-9748,49107-530,"Campo de Pereira, 246
+Horto Florestal
+68268932 Lima / AL",Porto do Oeste,AC,82,Não sei
+Pessoa Jurídica com fins lucrativos (empresas),56.347.189/0001-48,Farias Mendes S.A.,,10/01/1938,Vinicius Vieira,806.723.945-29,uazevedo@example.org,(061) 3810 5026,10727-602,"Avenida Souza, 875
+Diamante
+36542-507 da Cunha / SP",Peixoto da Prata,RO,78,Não sei
