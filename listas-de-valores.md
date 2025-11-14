@@ -51,8 +51,7 @@ As listagens apresentadas a seguir foram consolidadas a partir dos anexos do "PA
 | Mulher trans |
 | Travesti |
 | Não binário |
-| Outra |
-| Prefere não responder |
+| Outro |
 
 ---
 ## 3. Orientação sexual
@@ -135,7 +134,7 @@ As listagens apresentadas a seguir foram consolidadas a partir dos anexos do "PA
 | Circo |
 | Cultura de Matriz Africana |
 | Cultura dos Povos Originários |
-| Culturas Populares e Tradicionais |
+| Culturas tradicionais e populares |
 | Dança |
 | Design |
 | Edição e produção editorial |
@@ -167,7 +166,7 @@ As listagens apresentadas a seguir foram consolidadas a partir dos anexos do "PA
 | Acesso, mediação e fruição |
 | Formação |
 | Pesquisa e reflexão |
-| Proteção e salvaguarda do patrimônio |
+| Memória e Preservação |
 | Organização e gestão |
 | Monitoramento e avaliação |
 | Outra (especificar) |
@@ -233,8 +232,6 @@ As listagens apresentadas a seguir foram consolidadas a partir dos anexos do "PA
 
 | Valores possíveis: |
 | :--- |
-| Não aplicável - Premiação cultural |
-| Não aplicável - Bolsa cultural |
 | Álbum musical |
 | Aplicativo / Software |
 | Apresentação ao vivo / Show |
