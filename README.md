@@ -43,7 +43,7 @@ As informações deverão ser enviadas ao MinC através da plataforma Cult.BR en
 
 ### 1. Dicionários de Dados
 * [**Fase 1: Inscrição**](dicionario-fase-1.md)
-    * [A. Agentes Culturais - Pessoa física](dicionario-fase-1.md#a-agentes-culturais-pessoa-física)
+    * [A. Agentes Culturais - Pessoa física ou MEI](dicionario-fase-1.md#a-agentes-culturais-pessoa-física)
     * [B. Agentes Culturais - Pessoa jurídica](dicionario-fase-1.md#b-agentes-culturais-pessoa-jurídica)
     * [C. Agentes Culturais - Coletivos sem constituição jurídica](dicionario-fase-1.md#c-agentes-culturais-coletivos-sem-constituição-jurídica)
     * [D. Proposta de ação cultural](dicionario-fase-1.md#d-proposta-de-ação-cultural)
