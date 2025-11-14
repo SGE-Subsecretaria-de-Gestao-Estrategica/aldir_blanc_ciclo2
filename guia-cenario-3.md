@@ -1,6 +1,6 @@
-[< Voltar ao Guia de Implementação](guia-implementacao.md) | [Ir para o Padrão SNIIC (README)](README.md)
+[< Voltar ao Guia de Adoção](guia-adesao.md) | [Ir para o Padrão SNIIC (README)](README.md)
 
-# Guia de Implementação - Cenário 3: Implementação Simplificada (Planilhas/Formulários)
+# Guia de Adoção - Cenário 3: Implementação Simplificada (Planilhas/Formulários)
 
 Este guia detalha o plano de ação para Entes Federativos que **não possuem um sistema dedicado** e optarão por coletar os dados usando ferramentas como Planilhas (Excel, Google Sheets) ou Formulários Online (Google Forms, Microsoft Forms).
 
@@ -23,6 +23,7 @@ Este cenário é a realidade da grande maioria dos municípios brasileiros. Se v
 Esta é a abordagem **mais recomendada** para este cenário. Ela resolve o "Risco Crítico" (erro de digitação) de forma simples e gratuita.
 
 **Por quê?** Um formulário online permite que você crie perguntas de "Lista Suspensa" (dropdown) ou "Múltipla Escolha". O proponente é forçado a selecionar um valor da lista oficial, garantindo que o dado chegue 100% correto na sua planilha de respostas.
+
 
 **Plano de Ação (Formulários Online):**
 
