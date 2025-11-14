@@ -44,6 +44,5 @@ O TR deve prever como os dados serão enviados ao MinC:
 * **Ideal:** O sistema deve possuir uma **API** para comunicação direta com a plataforma Cult.BR, eliminando a necessidade de exportação/importação manual de arquivos. 
 
 ### Modelos e Exemplos (Disponibilizados em Breve)
-* *Um modelo de Termo de Referência (TR) para licitação de sistema aderente ao Padrão SNIIC.*
 * *Um script SQL `CREATE TABLE` de exemplo (PostgreSQL/MySQL) para a criação da estrutura do banco de dados.*
 * *Um exemplo de estrutura de API/JSON para modelagem de envio de dados ao MinC.*
