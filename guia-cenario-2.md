@@ -1,4 +1,4 @@
-[< Voltar ao Guia de Implementação](guia-implementacao.md) | [Ir para o Padrão SNIIC (README)](README.md)
+[< Voltar ao Guia de Implementação](guia_adesao.md) | [Ir para o Padrão SNIIC (README)](README.md)
 
 # Guia de Implementação - Cenário 2: Ajuste de Sistema Existente
 
@@ -64,8 +64,7 @@ O Módulo de Exportação é a funcionalidade do seu sistema que irá gerar o ar
 3.  **Rastreabilidade (Joins):** O módulo deve garantir a rastreabilidade unindo os dados corretamente. Por exemplo, o arquivo de `Propostas` deve conter o `id_agente` (CPF/CNPJ) que a submeteu; o arquivo de `Ação Realizada` deve conter o `id_proposta` que a originou. (Nota: esta rastreabilidade será detalhada nos próximos "Pontos Críticos").
 4.  **Formato e Validação:** O arquivo deve ser gerado em um formato válido (CSV UTF-8 ou JSON) e os tipos de dados devem estar corretos (ex: datas no formato `dd/mm/aaaa`).
 
-### Modelos e Exemplos (Disponibilizados em Breve)
-* *Exemplo de Tabela DE-PARA (Planilha de Mapeamento).*
-* *Arquivos .CSV e .JSON das Listas de Valores.*
-* *Exemplo de código para exportação em CSV (Python/PHP).*
-* *Exemplo de código para exportação em JSON (JavaScript/Python).*
+### Arquivos de Referência:
+
+* *Listas de Valores em [.csv](arquivos_e_modelos/lista_de_valores.csv) e [.json](arquivos_e_modelos/lista_de_valores.csv) (pode importar o Raw data diretamente).*
+* *Exemplo de código Python com a [Geração de Dados Fictícios compatíveis com o Padrão](arquivos_e_modelos/Geração_de_dados_fictícios.ipynb).*
