@@ -35,8 +35,7 @@ lista_id,lista_nome,item_valor
 2,2. Gênero,Mulher trans
 2,2. Gênero,Travesti
 2,2. Gênero,Não binário
-2,2. Gênero,Outra
-2,2. Gênero,Prefere não responder
+2,2. Gênero,Outro
 3,3. Orientação sexual,Lésbica
 3,3. Orientação sexual,Gay
 3,3. Orientação sexual,Heterossexual
@@ -83,7 +82,7 @@ lista_id,lista_nome,item_valor
 8,8. Segmento Cultural,Circo
 8,8. Segmento Cultural,Cultura de Matriz Africana
 8,8. Segmento Cultural,Cultura dos Povos Originários
-8,8. Segmento Cultural,Culturas Populares e Tradicionais
+8,8. Segmento Cultural,Culturas Tradicionais e Populares
 8,8. Segmento Cultural,Dança
 8,8. Segmento Cultural,Design
 8,8. Segmento Cultural,Edição e produção editorial
@@ -109,7 +108,7 @@ lista_id,lista_nome,item_valor
 9,9. Etapas do Ciclo Cultural,"Acesso, mediação e fruição"
 9,9. Etapas do Ciclo Cultural,Formação
 9,9. Etapas do Ciclo Cultural,Pesquisa e reflexão
-9,9. Etapas do Ciclo Cultural,"Proteção e salvaguarda do patrimônio"
+9,9. Etapas do Ciclo Cultural,"Memória e Preservação"
 9,9. Etapas do Ciclo Cultural,Organização e gestão
 9,9. Etapas do Ciclo Cultural,Monitoramento e avaliação
 9,9. Etapas do Ciclo Cultural,"Outra (especificar)"
