@@ -1,4 +1,4 @@
-[< Voltar ao Guia de Adoção](guia_adesao.md) | [Ir para o Padrão SNIIC (README)](README.md)
+[< Voltar ao Guia de Adoção](guia_pratico.md) | [Ir para o Padrão SNIIC (README)](README.md)
 
 # Guia de Adoção - Cenário 2: Ajuste de Sistema Existente
 
