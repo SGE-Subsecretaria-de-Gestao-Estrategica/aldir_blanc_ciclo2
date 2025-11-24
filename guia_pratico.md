@@ -54,7 +54,7 @@ Qualquer implementação deve **obrigatoriamente** usar os valores exatos fornec
 
 Seja qual for a tecnologia que seu ente utiliza, o objetivo final é o mesmo: **produzir um conjunto de dados que esteja 100% compatível com os dicionários e listas de valores possíveis, seja por planilhas, arquivos ou comunicação via API.**
 
-Para auxiliar nesse processo, mapeamos quatro cenários principais de implementação. Cada cenário possui um plano de ação sugerido, desde o mais simples (uso de planilhas) até o mais robusto (aderência a sistemas existentes ou federais).
+Para auxiliar nesse processo, mapeamos os principais cenários de implementação. Cada cenário possui um plano de ação sugerido, desde o mais simples (uso de planilhas) até o mais robusto (aderência a sistemas existentes ou federais).
 
 
 * [**Cenário 1: Ajustar um sistema de gestão de editais já existente**](guia-cenario-2.md)
