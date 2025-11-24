@@ -56,10 +56,10 @@ Seja qual for a tecnologia que seu ente utiliza, o objetivo final é o mesmo: **
 
 Para auxiliar nesse processo, mapeamos quatro cenários principais de implementação. Cada cenário possui um plano de ação sugerido, desde o mais simples (uso de planilhas) até o mais robusto (aderência a sistemas existentes ou federais).
 
-* (Disponível em breve) **Cenário 1: Aderir à plataforma federal Mapa da Cultura (Solução Integrada)**
-* [**Cenário 2: Ajustar um sistema de gestão de editais já existente**](guia-cenario-2.md)
-* [**Cenário 3: Usar planilhas ou formulários online (Implementação Simplificada)**](guia-cenario-3.md)
-* [**Cenário 4: Construir ou contratar um sistema novo**](guia-cenario-4.md)
+
+* [**Cenário 1: Ajustar um sistema de gestão de editais já existente**](guia-cenario-2.md)
+* [**Cenário 2: Usar planilhas ou formulários online (Implementação Simplificada)**](guia-cenario-3.md)
+* [**Cenário 3: Construir ou contratar um sistema novo**](guia-cenario-4.md)
 
 Para detalhes completos, planos de ação e exemplos de cada cenário, consulte os guias específicos linkados acima.
 
