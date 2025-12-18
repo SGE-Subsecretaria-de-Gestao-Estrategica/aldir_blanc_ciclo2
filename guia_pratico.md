@@ -1,4 +1,4 @@
-# [Em construção/Validação] Guia Prático: Adoção do Padrão de Dados PNAB (SNIIC Ciclo 2)
+# Guia Prático: Adoção do Padrão de Dados PNAB (SNIIC Ciclo 2)
 
 Este guia destina-se aos gestores e equipes técnicas dos Entes Federativos (Estados, DF e Municípios) responsáveis pela execução da Política Nacional Aldir Blanc (PNAB).
 
@@ -57,9 +57,9 @@ Seja qual for a tecnologia que seu ente utiliza, o objetivo final é o mesmo: **
 Para auxiliar nesse processo, mapeamos os principais cenários de implementação. Cada cenário possui um plano de ação sugerido, desde o mais simples (uso de planilhas) até o mais robusto (aderência a sistemas existentes ou federais).
 
 
-* [**Cenário 1: Ajustar um sistema de gestão de editais já existente**](guia-cenario-2.md)
-* [**Cenário 2: Usar planilhas ou formulários online (Implementação Simplificada)**](guia-cenario-3.md)
-* [**Cenário 3: Construir ou contratar um sistema novo**](guia-cenario-4.md)
+* [**Cenário 1: Ajustar um sistema de gestão de editais já existente**](guia-cenario-1.md)
+* [**Cenário 2: Usar planilhas ou formulários online (Implementação Simplificada)**](guia-cenario-2.md)
+* [**Cenário 3: Construir ou contratar um sistema novo**](guia-cenario-3.md)
 
 Para detalhes completos, planos de ação e exemplos de cada cenário, consulte os guias específicos linkados acima.
 
