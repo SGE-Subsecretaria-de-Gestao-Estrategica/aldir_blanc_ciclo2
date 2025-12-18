@@ -48,8 +48,7 @@ Para facilitar a importação para o seu banco de dados, este repositório dispo
 * **Risco:** Um mapeamento automático (ex: `DE` "Artes Cênicas" `PARA` "Teatro") pode ser impreciso, pois "Artes Cênicas" pode incluir "Circo" ou "Dança" (que são categorias separadas no Padrão SNIIC).
 * **Recomendação:** A menos que o ente federativo tenha **certeza absoluta** da compatibilidade 1-para-1 entre seus termos e os do Padrão SNIIC, **não faça um DE-PARA automático.** A melhor abordagem é **envolver o usuário (agente cultural)**:
     * **Para novos cadastros:** O formulário de inscrição deve usar *apenas* as novas listas do SNIIC.
-    * **Para agentes já cadastrados:** O sistema deve solicitar que os agentes **atualizem seu cadastro** no próximo login, reclassificando-se dentro das novas categorias do Padrão SNIIC. Isso garante a integridade e a precisão semântica dos dados.
-     * Um bom momento é o cadastro em editais (Revisar)
+    * **Para agentes já cadastrados:** O sistema deve solicitar que os agentes **atualizem seu cadastro** no próximo login, reclassificando-se dentro das novas categorias do Padrão SNIIC. Isso garante a integridade e a precisão semântica dos dados. 
 
 #### Passo 3: Desenvolvimento (Front-End e Back-End)
 Com o diagnóstico do Passo 1 em mãos, sua equipe de TI deverá:
