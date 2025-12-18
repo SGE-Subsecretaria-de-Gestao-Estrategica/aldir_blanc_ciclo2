@@ -67,12 +67,12 @@ Para detalhes completos, planos de ação e exemplos de cada cenário, consulte 
 
 ## 3. Envio dos Dados ao MinC
 
-Conforme descrito no [Padrão SNIIC para Coleta de Dados - PNAB Ciclo 2](readme.md), as informações deverão ser enviadas ao MinC através da plataforma Cult.BR.
+Conforme descrito no [Padrão SNIIC para Coleta de Dados - PNAB Ciclo 2](README.md), as informações deverão ser enviadas ao MinC através da plataforma Cult.BR.
 Independentemente do cenário de implementação (Sistema Próprio, Planilha ou Novo Sistema), o resultado do seu trabalho deve ser um conjunto de dados estruturado que siga este padrão. 
 
 ---
 
-## 4. Recursos (Links Essenciais)
+## 4. Links Essenciais
 
 * [**`mer_pnab.md`**](mer_pnab.md): O Modelo Conceitual, para entender o fluxo completo.
 * [**`dicionario-fase-1.md`**](dicionario-fase-1.md): Dicionários para coleta na Inscrição (Agentes e Propostas).
