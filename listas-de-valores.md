@@ -4,7 +4,7 @@ As listas de valores possíveis são um componente essencial do Padrão de Dados
 
 As listagens apresentadas a seguir foram consolidadas a partir dos anexos do "PADRÃO SNIIC PARA COLETA DE DADOS - PNAB CICLO 2" e devem ser utilizadas como referência para o preenchimento dos atributos correspondentes nos sistemas de informação.
 
-* As listas também estão disponíveis nos formatos [.csv](arquivos_e_modelos/lista_de_valores.csv) e [.json](arquivos_e_modelos/lista_de_valores.csv). É possível importar o *raw-data* diretamente.
+* As listas também estão disponíveis nos formatos [.csv](arquivos_e_modelos/lista_de_valores.csv) e [.json](arquivos_e_modelos/lista_de_valores.json). É possível importar o *raw-data* diretamente.
 
 ---
 ## 1. Povos e comunidades tradicionais
