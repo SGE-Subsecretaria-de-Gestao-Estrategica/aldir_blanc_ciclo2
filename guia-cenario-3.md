@@ -1,6 +1,6 @@
 [< Voltar ao Guia de Adoção](guia_pratico.md) | [Ir para o Padrão SNIIC](README.md)
 
-# Guia de Adoção - Cenário 4: Construção de Novo Sistema
+# Guia de Adoção - Cenário 3: Construção de Novo Sistema
 
 Este guia detalha o plano de ação para Entes Federativos que irão **desenvolver um software do zero** (com equipe própria) ou **licitar/contratar um novo sistema** de gestão de editais.
 
