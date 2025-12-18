@@ -1,6 +1,6 @@
 [< Voltar ao Guia de Adoção](guia_pratico.md) | [Ir para o Padrão SNIIC (README)](README.md)
 
-# Guia de Adoção - Cenário 2: Ajuste de Sistema Existente
+# Guia de Adoção - Cenário 1: Ajuste de Sistema Existente
 
 Este guia detalha o plano de ação para Entes Federativos que **já possuem um sistema** (software próprio ou contratado) para gestão de editais e inscrições.
 
