@@ -1,8 +1,8 @@
 [< Voltar ao Guia de Adoção](guia_pratico.md) | [Ir para o Padrão SNIIC (README)](README.md)
 
-# Guia de Adoção - Cenário 3: Implementação Simplificada (Planilhas/Formulários)
+# Guia de Adoção - Cenário 2: Implementação Simplificada (Planilhas/Formulários)
 
-Este guia detalha o plano de ação para Entes Federativos que **não possuem um sistema dedicado** e optarão por coletar os dados usando ferramentas como Planilhas (Excel, Google Sheets) ou Formulários Online (Google Forms, Microsoft Forms).
+Este guia detalha o plano de ação para Entes Federativos que **não possuem um sistema dedicado** e optarão por coletar os dados usando ferramentas como Formulários Online (Google Forms, Microsoft Forms).
 
 ### Perfil do Ente
 Este cenário é a realidade da grande maioria dos municípios brasileiros. Se você não possui uma equipe de TI dedicada ou um sistema de gestão de editais, este é o seu guia.
@@ -40,21 +40,6 @@ Esta é a abordagem **mais recomendada** para este cenário. Ela resolve o "Risc
     * Renomear os cabeçalhos das colunas (que hoje são as "perguntas", ex: "Qual seu nome completo?") para que correspondam *exatamente* aos `Nomes formatados` dos dicionários (ex: `nome_completo`).
     * Exportar este arquivo final (em .CSV ou .XLSX) para o envio ao MinC.
 
-### O Caminho Alternativo: Usar Planilhas Diretamente (Excel, Google Sheets)
-
-Este caminho é possível, mas **mais arriscado** se a planilha for enviada aberta para o proponente preencher, pois ele pode cometer erros de digitação.
-
-Esta abordagem funciona melhor se a **própria equipe de gestão do ente** preencher a planilha (centralizando a digitação) ou se a planilha for muito bem configurada com validação de dados.
-
-**Plano de Ação (Planilhas Diretas):**
-
-1.  **Aguarde ou Use os Modelos:** O MinC irá disponibilizar planilhas-modelo já configuradas.
-    * _Um arquivo .xlsx (Excel) com as colunas, validações de dados e listas suspensas pré-configuradas será disponibilizado em breve._
-2.  **Se for criar a sua:**
-    * Crie um arquivo (Excel ou Google Sheets) para cada entidade (Agente Individual, Proposta de Ação, etc.).
-    * **(Obrigatório - Regra 1)** Os cabeçalhos das colunas (linha 1) da sua planilha DEVEM ser os `Nomes formatados` (ex: `cpf`, `nome_completo`, `data_nascimento`).
-    * **(Obrigatório - Regra 2)** Em todas as colunas que usam listas (ex: `segmento_cultural_principal`), use a ferramenta "Validação de Dados" para criar uma lista suspensa. Isso força o preenchimento correto.
-3.  **Consolidação:** O gestor do ente ficará responsável por garantir que todas as linhas estão preenchidas corretamente, sem erros de digitação, e que as informações estão rastreáveis (ex: que o CPF do agente está correto na planilha de propostas).
 
 ### Modelos e Exemplos (Disponibilizados em Breve)
 * _Link para um Modelo de Google Forms pré-configurado (Fase 1 e Fase 2)._
