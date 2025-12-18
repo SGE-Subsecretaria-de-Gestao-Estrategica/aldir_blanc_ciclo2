@@ -11,14 +11,15 @@ Antes de implementar, é crucial entender o que o Padrão de Coleta do Ciclo 2 e
 Para compreender a lógica completa e o mapeamento do fluxo de informações da PNAB, consulte a nossa [Modelagem Entidade-Relacionamento (mer_pnab.md)](mer_pnab.md). Para novas implementações ou adaptações de sistemas de informações já existentes, é fundamental considerar toda a modelagem de dados PNAB. 
 
 ### As Duas Fases da Coleta
-O padrão de coleta é dividido em dois momentos cruciais que refletem o ciclo de vida do fomento:
+
+Os dados são coletados em dois momentos específicos do fluxo de fomento: na INSCRIÇÃO dos editais e no RELATÓRIO do Objeto de Execução Cultural", ambos preenchidos pelos agentes culturais:
 
 1.  **FASE 1: INSCRIÇÃO**
     * **O que é:** Dados coletados dos proponentes no momento em que eles se inscrevem no seu edital.
     * **Entidades envolvidas:**
         * `Agente Individual` (Pessoa Física ou MEI)
         * `Pessoa Jurídica` (com ou sem fins lucrativos)
-        * `Coletivo Informal` 
+        * `Coletivo sem constituição jurídica` 
         * `Proposta de Ação Cultural`
         * `Proposta de Subsídio`
         * `Proposta de Bolsa`
@@ -99,7 +100,7 @@ Para auxiliar equipes técnicas e gestores, seguem definições de termos comuns
 
 * **CSV (Comma-Separated Values):** Um formato de arquivo de texto simples onde os dados são organizados em linhas, e os valores em cada linha são separados por vírgulas. É o formato de exportação mais comum de planilhas (como o Excel).
 * **JSON (JavaScript Object Notation):** Um formato de arquivo leve para troca de dados, muito usado em APIs. Ele usa texto legível para transmitir objetos de dados que consistem em pares de atributo-valor.
-* **API (Interface de Programação de Aplicações):** Um conjunto de regras e protocolos que permite que diferentes sistemas de software "conversem" entre si, trocando dados de forma automatizada. No contexto da PNAB, uma API permitiria que o sistema do seu município enviasse dados diretamente para o Cult.BR.
+* **API (Interface de Programação de Aplicações):** Um conjunto de regras e protocolos que permite que diferentes sistemas de software "conversem" entre si, trocando dados de forma automatizada. No contexto da PNAB, uma API permitiria que o sistema do seu município ou estado enviasse dados diretamente para o Cult.BR. 
 * **Banco de Dados:** Uma coleção organizada de informações ou dados estruturados, tipicamente armazenados eletronicamente em um sistema de computador. É onde seu sistema de editais (ou planilha) armazena as informações dos proponentes.
 * **Front-End:** A parte de um sistema de software com a qual o usuário interage diretamente. No seu caso, são os formulários de inscrição e relatórios que o agente cultural preenche.
 * **Back-End:** A parte "de trás" de um sistema de software, que o usuário não vê. É onde os dados são processados, armazenados (no banco de dados) e onde as regras de negócio são executadas. É o oposto do Front-End.
