@@ -65,5 +65,5 @@ O Módulo de Exportação é a funcionalidade do seu sistema que irá gerar o ar
 
 ### Arquivos de Referência:
 
-* *Listas de Valores em [.csv](arquivos_e_modelos/lista_de_valores.csv) e [.json](arquivos_e_modelos/lista_de_valores.csv) (pode importar o Raw data diretamente).*
+* *Listas de Valores em [.csv](arquivos_e_modelos/lista_de_valores.csv) e [.json](arquivos_e_modelos/lista_de_valores.json) (pode importar o Raw data diretamente).*
 * *Exemplo de código Python com a [Geração de Dados Fictícios compatíveis com o Padrão](arquivos_e_modelos/Geração_de_dados_fictícios.ipynb).*
